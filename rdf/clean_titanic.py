@@ -31,6 +31,8 @@ data.loc[data["body"].isna(),"body"] = -1
 data.loc[data["parch"].isna(),"parch"] = 0
 data.loc[data["sibsp"].isna(),"sibsp"] = 0
 data.loc[data["age"].isna(),"age"] = 0
+data.loc[:,"name"] = data["name"].str.replace('(', '\(')
+data.loc[:,"name"] = data["name"].str.replace(')', '\)')
 
 print(data[columns].isna().sum()/rows)
 

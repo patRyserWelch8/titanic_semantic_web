@@ -16,7 +16,7 @@
 14,data:titanic:passenger:3,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 15,data:titanic:passenger:3,has_an_age_of,30.0
 16,data:titanic:passenger:4,is_a,https://en.wikipedia.org/wiki/Woman
-17,data:titanic:passenger:4,has_a_name,Hudson J C (Bessie Waldo Daniels) Allison
+17,data:titanic:passenger:4,has_a_name,Hudson J C \(Bessie Waldo Daniels\) Allison
 18,data:titanic:passenger:4,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 19,data:titanic:passenger:4,has_an_age_of,25.0
 20,data:titanic:passenger:5,is_a,https://en.wikipedia.org/wiki/Man
@@ -32,7 +32,7 @@
 30,data:titanic:passenger:7,has_a_marital_status,Unknown
 31,data:titanic:passenger:7,has_an_age_of,39.0
 32,data:titanic:passenger:8,is_a,https://en.wikipedia.org/wiki/Woman
-33,data:titanic:passenger:8,has_a_name,Edward Dale (Charlotte Lamson) Appleton
+33,data:titanic:passenger:8,has_a_name,Edward Dale \(Charlotte Lamson\) Appleton
 34,data:titanic:passenger:8,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 35,data:titanic:passenger:8,has_an_age_of,53.0
 36,data:titanic:passenger:9,is_a,https://en.wikipedia.org/wiki/Man
@@ -44,7 +44,7 @@
 42,data:titanic:passenger:10,has_a_marital_status,Unknown
 43,data:titanic:passenger:10,has_an_age_of,47.0
 44,data:titanic:passenger:11,is_a,https://en.wikipedia.org/wiki/Woman
-45,data:titanic:passenger:11,has_a_name,John Jacob (Madeleine Talmadge Force) Astor
+45,data:titanic:passenger:11,has_a_name,John Jacob \(Madeleine Talmadge Force\) Astor
 46,data:titanic:passenger:11,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 47,data:titanic:passenger:11,has_an_age_of,18.0
 48,data:titanic:passenger:12,is_a,https://en.wikipedia.org/wiki/Woman
@@ -68,7 +68,7 @@
 66,data:titanic:passenger:16,has_a_marital_status,Unknown
 67,data:titanic:passenger:16,has_an_age_of,24.0
 68,data:titanic:passenger:17,is_a,https://en.wikipedia.org/wiki/Woman
-69,data:titanic:passenger:17,has_a_name,James (Helene DeLaudeniere Chaput) Baxter
+69,data:titanic:passenger:17,has_a_name,James \(Helene DeLaudeniere Chaput\) Baxter
 70,data:titanic:passenger:17,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 71,data:titanic:passenger:17,has_an_age_of,50.0
 72,data:titanic:passenger:18,is_a,https://en.wikipedia.org/wiki/Woman
@@ -84,7 +84,7 @@
 82,data:titanic:passenger:20,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 83,data:titanic:passenger:20,has_an_age_of,37.0
 84,data:titanic:passenger:21,is_a,https://en.wikipedia.org/wiki/Woman
-85,data:titanic:passenger:21,has_a_name,Richard Leonard (Sallie Monypeny) Beckwith
+85,data:titanic:passenger:21,has_a_name,Richard Leonard \(Sallie Monypeny\) Beckwith
 86,data:titanic:passenger:21,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 87,data:titanic:passenger:21,has_an_age_of,47.0
 88,data:titanic:passenger:22,is_a,https://en.wikipedia.org/wiki/Man
@@ -108,7 +108,7 @@
 106,data:titanic:passenger:26,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 107,data:titanic:passenger:26,has_an_age_of,25.0
 108,data:titanic:passenger:27,is_a,https://en.wikipedia.org/wiki/Woman
-109,data:titanic:passenger:27,has_a_name,Dickinson H (Helen Walton) Bishop
+109,data:titanic:passenger:27,has_a_name,Dickinson H \(Helen Walton\) Bishop
 110,data:titanic:passenger:27,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 111,data:titanic:passenger:27,has_an_age_of,19.0
 112,data:titanic:passenger:28,is_a,https://en.wikipedia.org/wiki/Woman
@@ -148,7 +148,7 @@
 146,data:titanic:passenger:36,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 147,data:titanic:passenger:36,has_an_age_of,22.0
 148,data:titanic:passenger:37,is_a,https://en.wikipedia.org/wiki/Man
-149,data:titanic:passenger:37,has_a_name,"George (""George Arthur Brayton"") Bradley"
+149,data:titanic:passenger:37,has_a_name,"George \(""George Arthur Brayton""\) Bradley"
 150,data:titanic:passenger:37,has_a_marital_status,Unknown
 151,data:titanic:passenger:37,has_an_age_of,Unknown
 152,data:titanic:passenger:38,is_a,https://en.wikipedia.org/wiki/Man
@@ -164,15 +164,15 @@
 162,data:titanic:passenger:40,has_a_marital_status,Unknown
 163,data:titanic:passenger:40,has_an_age_of,Unknown
 164,data:titanic:passenger:41,is_a,https://en.wikipedia.org/wiki/Woman
-165,data:titanic:passenger:41,has_a_name,James Joseph (Margaret Tobin) Brown
+165,data:titanic:passenger:41,has_a_name,James Joseph \(Margaret Tobin\) Brown
 166,data:titanic:passenger:41,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 167,data:titanic:passenger:41,has_an_age_of,44.0
 168,data:titanic:passenger:42,is_a,https://en.wikipedia.org/wiki/Woman
-169,data:titanic:passenger:42,has_a_name,John Murray (Caroline Lane Lamson) Brown
+169,data:titanic:passenger:42,has_a_name,John Murray \(Caroline Lane Lamson\) Brown
 170,data:titanic:passenger:42,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 171,data:titanic:passenger:42,has_an_age_of,59.0
 172,data:titanic:passenger:43,is_a,https://en.wikipedia.org/wiki/Woman
-173,data:titanic:passenger:43,has_a_name,William Robert (Emma Eliza Ward) Bucknell
+173,data:titanic:passenger:43,has_a_name,William Robert \(Emma Eliza Ward\) Bucknell
 174,data:titanic:passenger:43,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 175,data:titanic:passenger:43,has_an_age_of,60.0
 176,data:titanic:passenger:44,is_a,https://en.wikipedia.org/wiki/Woman
@@ -192,7 +192,7 @@
 190,data:titanic:passenger:47,has_a_marital_status,Unknown
 191,data:titanic:passenger:47,has_an_age_of,42.0
 192,data:titanic:passenger:48,is_a,https://en.wikipedia.org/wiki/Woman
-193,data:titanic:passenger:48,has_a_name,Edward (Helen Churchill Hungerford) Candee
+193,data:titanic:passenger:48,has_a_name,Edward \(Helen Churchill Hungerford\) Candee
 194,data:titanic:passenger:48,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 195,data:titanic:passenger:48,has_an_age_of,53.0
 196,data:titanic:passenger:49,is_a,https://en.wikipedia.org/wiki/Man
@@ -200,7 +200,7 @@
 198,data:titanic:passenger:49,has_a_marital_status,Unknown
 199,data:titanic:passenger:49,has_an_age_of,36.0
 200,data:titanic:passenger:50,is_a,https://en.wikipedia.org/wiki/Woman
-201,data:titanic:passenger:50,has_a_name,James Warburton Martinez (Charlotte Wardle Drake) Cardeza
+201,data:titanic:passenger:50,has_a_name,James Warburton Martinez \(Charlotte Wardle Drake\) Cardeza
 202,data:titanic:passenger:50,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 203,data:titanic:passenger:50,has_an_age_of,58.0
 204,data:titanic:passenger:51,is_a,https://en.wikipedia.org/wiki/Man
@@ -228,7 +228,7 @@
 226,data:titanic:passenger:56,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 227,data:titanic:passenger:56,has_an_age_of,36.0
 228,data:titanic:passenger:57,is_a,https://en.wikipedia.org/wiki/Woman
-229,data:titanic:passenger:57,has_a_name,William Ernest (Lucile Polk) Carter
+229,data:titanic:passenger:57,has_a_name,William Ernest \(Lucile Polk\) Carter
 230,data:titanic:passenger:57,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 231,data:titanic:passenger:57,has_an_age_of,36.0
 232,data:titanic:passenger:58,is_a,https://en.wikipedia.org/wiki/Man
@@ -236,7 +236,7 @@
 234,data:titanic:passenger:58,has_a_marital_status,Unknown
 235,data:titanic:passenger:58,has_an_age_of,49.0
 236,data:titanic:passenger:59,is_a,https://en.wikipedia.org/wiki/Woman
-237,data:titanic:passenger:59,has_a_name,Henry Arthur Jr (Eleanor Genevieve Fosdick) Cassebeer
+237,data:titanic:passenger:59,has_a_name,Henry Arthur Jr \(Eleanor Genevieve Fosdick\) Cassebeer
 238,data:titanic:passenger:59,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 239,data:titanic:passenger:59,has_an_age_of,Unknown
 240,data:titanic:passenger:60,is_a,https://en.wikipedia.org/wiki/Man
@@ -244,7 +244,7 @@
 242,data:titanic:passenger:60,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 243,data:titanic:passenger:60,has_an_age_of,36.0
 244,data:titanic:passenger:61,is_a,https://en.wikipedia.org/wiki/Woman
-245,data:titanic:passenger:61,has_a_name,Tyrell William (Julia Florence Siegel) Cavendish
+245,data:titanic:passenger:61,has_a_name,Tyrell William \(Julia Florence Siegel\) Cavendish
 246,data:titanic:passenger:61,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 247,data:titanic:passenger:61,has_an_age_of,76.0
 248,data:titanic:passenger:62,is_a,https://en.wikipedia.org/wiki/Man
@@ -252,7 +252,7 @@
 250,data:titanic:passenger:62,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 251,data:titanic:passenger:62,has_an_age_of,46.0
 252,data:titanic:passenger:63,is_a,https://en.wikipedia.org/wiki/Woman
-253,data:titanic:passenger:63,has_a_name,Herbert Fuller (Carrie Constance Toogood) Chaffee
+253,data:titanic:passenger:63,has_a_name,Herbert Fuller \(Carrie Constance Toogood\) Chaffee
 254,data:titanic:passenger:63,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 255,data:titanic:passenger:63,has_an_age_of,47.0
 256,data:titanic:passenger:64,is_a,https://en.wikipedia.org/wiki/Man
@@ -260,7 +260,7 @@
 258,data:titanic:passenger:64,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 259,data:titanic:passenger:64,has_an_age_of,27.0
 260,data:titanic:passenger:65,is_a,https://en.wikipedia.org/wiki/Woman
-261,data:titanic:passenger:65,has_a_name,Norman Campbell (Bertha Griggs) Chambers
+261,data:titanic:passenger:65,has_a_name,Norman Campbell \(Bertha Griggs\) Chambers
 262,data:titanic:passenger:65,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 263,data:titanic:passenger:65,has_an_age_of,33.0
 264,data:titanic:passenger:66,is_a,https://en.wikipedia.org/wiki/Woman
@@ -276,7 +276,7 @@
 274,data:titanic:passenger:68,has_a_marital_status,Unknown
 275,data:titanic:passenger:68,has_an_age_of,45.0
 276,data:titanic:passenger:69,is_a,https://en.wikipedia.org/wiki/Woman
-277,data:titanic:passenger:69,has_a_name,(Edith Martha Bowerman) Chibnall
+277,data:titanic:passenger:69,has_a_name,\(Edith Martha Bowerman\) Chibnall
 278,data:titanic:passenger:69,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 279,data:titanic:passenger:69,has_an_age_of,Unknown
 280,data:titanic:passenger:70,is_a,https://en.wikipedia.org/wiki/Man
@@ -288,7 +288,7 @@
 286,data:titanic:passenger:71,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 287,data:titanic:passenger:71,has_an_age_of,27.0
 288,data:titanic:passenger:72,is_a,https://en.wikipedia.org/wiki/Woman
-289,data:titanic:passenger:72,has_a_name,Walter Miller (Virginia McDowell) Clark
+289,data:titanic:passenger:72,has_a_name,Walter Miller \(Virginia McDowell\) Clark
 290,data:titanic:passenger:72,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 291,data:titanic:passenger:72,has_an_age_of,26.0
 292,data:titanic:passenger:73,is_a,https://en.wikipedia.org/wiki/Woman
@@ -312,11 +312,11 @@
 310,data:titanic:passenger:77,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 311,data:titanic:passenger:77,has_an_age_of,37.0
 312,data:titanic:passenger:78,is_a,https://en.wikipedia.org/wiki/Woman
-313,data:titanic:passenger:78,has_a_name,Alexander Taylor (Mary Eliza Ingersoll) Compton
+313,data:titanic:passenger:78,has_a_name,Alexander Taylor \(Mary Eliza Ingersoll\) Compton
 314,data:titanic:passenger:78,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 315,data:titanic:passenger:78,has_an_age_of,64.0
 316,data:titanic:passenger:79,is_a,https://en.wikipedia.org/wiki/Woman
-317,data:titanic:passenger:79,has_a_name,Robert Clifford (Malvina Helen Lamson) Cornell
+317,data:titanic:passenger:79,has_a_name,Robert Clifford \(Malvina Helen Lamson\) Cornell
 318,data:titanic:passenger:79,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 319,data:titanic:passenger:79,has_an_age_of,55.0
 320,data:titanic:passenger:80,is_a,https://en.wikipedia.org/wiki/Man
@@ -332,7 +332,7 @@
 330,data:titanic:passenger:82,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 331,data:titanic:passenger:82,has_an_age_of,36.0
 332,data:titanic:passenger:83,is_a,https://en.wikipedia.org/wiki/Woman
-333,data:titanic:passenger:83,has_a_name,Edward Gifford (Catherine Elizabeth Halstead) Crosby
+333,data:titanic:passenger:83,has_a_name,Edward Gifford \(Catherine Elizabeth Halstead\) Crosby
 334,data:titanic:passenger:83,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 335,data:titanic:passenger:83,has_an_age_of,64.0
 336,data:titanic:passenger:84,is_a,https://en.wikipedia.org/wiki/Man
@@ -340,7 +340,7 @@
 338,data:titanic:passenger:84,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 339,data:titanic:passenger:84,has_an_age_of,39.0
 340,data:titanic:passenger:85,is_a,https://en.wikipedia.org/wiki/Woman
-341,data:titanic:passenger:85,has_a_name,John Bradley (Florence Briggs Thayer) Cumings
+341,data:titanic:passenger:85,has_a_name,John Bradley \(Florence Briggs Thayer\) Cumings
 342,data:titanic:passenger:85,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 343,data:titanic:passenger:85,has_an_age_of,38.0
 344,data:titanic:passenger:86,is_a,https://en.wikipedia.org/wiki/Man
@@ -360,7 +360,7 @@
 358,data:titanic:passenger:89,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 359,data:titanic:passenger:89,has_an_age_of,31.0
 360,data:titanic:passenger:90,is_a,https://en.wikipedia.org/wiki/Woman
-361,data:titanic:passenger:90,has_a_name,Thornton (Orian Hays) Davidson
+361,data:titanic:passenger:90,has_a_name,Thornton \(Orian Hays\) Davidson
 362,data:titanic:passenger:90,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 363,data:titanic:passenger:90,has_an_age_of,27.0
 364,data:titanic:passenger:91,is_a,https://en.wikipedia.org/wiki/Man
@@ -368,7 +368,7 @@
 366,data:titanic:passenger:91,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 367,data:titanic:passenger:91,has_an_age_of,31.0
 368,data:titanic:passenger:92,is_a,https://en.wikipedia.org/wiki/Woman
-369,data:titanic:passenger:92,has_a_name,Albert Adrian (Vera Gillespie) Dick
+369,data:titanic:passenger:92,has_a_name,Albert Adrian \(Vera Gillespie\) Dick
 370,data:titanic:passenger:92,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 371,data:titanic:passenger:92,has_an_age_of,17.0
 372,data:titanic:passenger:93,is_a,https://en.wikipedia.org/wiki/Man
@@ -380,7 +380,7 @@
 378,data:titanic:passenger:94,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 379,data:titanic:passenger:94,has_an_age_of,4.0
 380,data:titanic:passenger:95,is_a,https://en.wikipedia.org/wiki/Woman
-381,data:titanic:passenger:95,has_a_name,Washington (Ruth Vidaver) Dodge
+381,data:titanic:passenger:95,has_a_name,Washington \(Ruth Vidaver\) Dodge
 382,data:titanic:passenger:95,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 383,data:titanic:passenger:95,has_an_age_of,54.0
 384,data:titanic:passenger:96,is_a,https://en.wikipedia.org/wiki/Man
@@ -388,19 +388,19 @@
 386,data:titanic:passenger:96,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 387,data:titanic:passenger:96,has_an_age_of,50.0
 388,data:titanic:passenger:97,is_a,https://en.wikipedia.org/wiki/Woman
-389,data:titanic:passenger:97,has_a_name,Frederick Charles (Mary Helene Baxter) Douglas
+389,data:titanic:passenger:97,has_a_name,Frederick Charles \(Mary Helene Baxter\) Douglas
 390,data:titanic:passenger:97,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 391,data:titanic:passenger:97,has_an_age_of,27.0
 392,data:titanic:passenger:98,is_a,https://en.wikipedia.org/wiki/Woman
-393,data:titanic:passenger:98,has_a_name,Walter Donald (Mahala Dutton) Douglas
+393,data:titanic:passenger:98,has_a_name,Walter Donald \(Mahala Dutton\) Douglas
 394,data:titanic:passenger:98,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 395,data:titanic:passenger:98,has_an_age_of,48.0
 396,data:titanic:passenger:99,is_a,https://en.wikipedia.org/wiki/Woman
-397,data:titanic:passenger:99,has_a_name,"(Lucille Christiana Sutherland) (""Mrs Morgan"") Duff Gordon"
+397,data:titanic:passenger:99,has_a_name,"\(Lucille Christiana Sutherland\) \(""Mrs Morgan""\) Duff Gordon"
 398,data:titanic:passenger:99,has_a_marital_status,Unknown
 399,data:titanic:passenger:99,has_an_age_of,48.0
 400,data:titanic:passenger:100,is_a,https://en.wikipedia.org/wiki/Man
-401,data:titanic:passenger:100,has_a_name,"Cosmo Edmund (""Mr Morgan"") Duff Gordon"
+401,data:titanic:passenger:100,has_a_name,"Cosmo Edmund \(""Mr Morgan""\) Duff Gordon"
 402,data:titanic:passenger:100,has_a_marital_status,Unknown
 403,data:titanic:passenger:100,has_an_age_of,49.0
 404,data:titanic:passenger:101,is_a,https://en.wikipedia.org/wiki/Man
@@ -408,7 +408,7 @@
 406,data:titanic:passenger:101,has_a_marital_status,Unknown
 407,data:titanic:passenger:101,has_an_age_of,39.0
 408,data:titanic:passenger:102,is_a,https://en.wikipedia.org/wiki/Woman
-409,data:titanic:passenger:102,has_a_name,Boulton (Olive Potter) Earnshaw
+409,data:titanic:passenger:102,has_a_name,Boulton \(Olive Potter\) Earnshaw
 410,data:titanic:passenger:102,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 411,data:titanic:passenger:102,has_an_age_of,23.0
 412,data:titanic:passenger:103,is_a,https://en.wikipedia.org/wiki/Woman
@@ -428,7 +428,7 @@
 426,data:titanic:passenger:106,has_a_marital_status,Unknown
 427,data:titanic:passenger:106,has_an_age_of,Unknown
 428,data:titanic:passenger:107,is_a,https://en.wikipedia.org/wiki/Woman
-429,data:titanic:passenger:107,has_a_name,Alfred (Antoinette) Flegenheim
+429,data:titanic:passenger:107,has_a_name,Alfred \(Antoinette\) Flegenheim
 430,data:titanic:passenger:107,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 431,data:titanic:passenger:107,has_an_age_of,Unknown
 432,data:titanic:passenger:108,is_a,https://en.wikipedia.org/wiki/Woman
@@ -436,7 +436,7 @@
 434,data:titanic:passenger:108,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 435,data:titanic:passenger:108,has_an_age_of,Unknown
 436,data:titanic:passenger:109,is_a,https://en.wikipedia.org/wiki/Man
-437,data:titanic:passenger:109,has_a_name,"John Irwin (""Irving"") Flynn"
+437,data:titanic:passenger:109,has_a_name,"John Irwin \(""Irving""\) Flynn"
 438,data:titanic:passenger:109,has_a_marital_status,Unknown
 439,data:titanic:passenger:109,has_an_age_of,36.0
 440,data:titanic:passenger:110,is_a,https://en.wikipedia.org/wiki/Man
@@ -464,7 +464,7 @@
 462,data:titanic:passenger:115,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 463,data:titanic:passenger:115,has_an_age_of,64.0
 464,data:titanic:passenger:116,is_a,https://en.wikipedia.org/wiki/Woman
-465,data:titanic:passenger:116,has_a_name,Mark (Mary McDougald) Fortune
+465,data:titanic:passenger:116,has_a_name,Mark \(Mary McDougald\) Fortune
 466,data:titanic:passenger:116,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 467,data:titanic:passenger:116,has_an_age_of,60.0
 468,data:titanic:passenger:117,is_a,https://en.wikipedia.org/wiki/Woman
@@ -484,7 +484,7 @@
 482,data:titanic:passenger:120,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 483,data:titanic:passenger:120,has_an_age_of,43.0
 484,data:titanic:passenger:121,is_a,https://en.wikipedia.org/wiki/Woman
-485,data:titanic:passenger:121,has_a_name,Henry William (Clara Heinsheimer) Frauenthal
+485,data:titanic:passenger:121,has_a_name,Henry William \(Clara Heinsheimer\) Frauenthal
 486,data:titanic:passenger:121,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 487,data:titanic:passenger:121,has_an_age_of,Unknown
 488,data:titanic:passenger:122,is_a,https://en.wikipedia.org/wiki/Woman
@@ -496,7 +496,7 @@
 494,data:titanic:passenger:123,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 495,data:titanic:passenger:123,has_an_age_of,60.0
 496,data:titanic:passenger:124,is_a,https://en.wikipedia.org/wiki/Woman
-497,data:titanic:passenger:124,has_a_name,Maxmillian (Margaretha Emerentia Stehli) Frolicher-Stehli
+497,data:titanic:passenger:124,has_a_name,Maxmillian \(Margaretha Emerentia Stehli\) Frolicher-Stehli
 498,data:titanic:passenger:124,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 499,data:titanic:passenger:124,has_an_age_of,48.0
 500,data:titanic:passenger:125,is_a,https://en.wikipedia.org/wiki/Man
@@ -508,7 +508,7 @@
 506,data:titanic:passenger:126,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 507,data:titanic:passenger:126,has_an_age_of,37.0
 508,data:titanic:passenger:127,is_a,https://en.wikipedia.org/wiki/Woman
-509,data:titanic:passenger:127,has_a_name,Jacques Heath (Lily May Peel) Futrelle
+509,data:titanic:passenger:127,has_a_name,Jacques Heath \(Lily May Peel\) Futrelle
 510,data:titanic:passenger:127,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 511,data:titanic:passenger:127,has_an_age_of,35.0
 512,data:titanic:passenger:128,is_a,https://en.wikipedia.org/wiki/Man
@@ -524,7 +524,7 @@
 522,data:titanic:passenger:130,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 523,data:titanic:passenger:130,has_an_age_of,22.0
 524,data:titanic:passenger:131,is_a,https://en.wikipedia.org/wiki/Woman
-525,data:titanic:passenger:131,has_a_name,Leonard (Pauline C Boeson) Gibson
+525,data:titanic:passenger:131,has_a_name,Leonard \(Pauline C Boeson\) Gibson
 526,data:titanic:passenger:131,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 527,data:titanic:passenger:131,has_an_age_of,45.0
 528,data:titanic:passenger:132,is_a,https://en.wikipedia.org/wiki/Man
@@ -536,7 +536,7 @@
 534,data:titanic:passenger:133,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 535,data:titanic:passenger:133,has_an_age_of,49.0
 536,data:titanic:passenger:134,is_a,https://en.wikipedia.org/wiki/Woman
-537,data:titanic:passenger:134,has_a_name,Samuel L (Edwiga Grabowska) Goldenberg
+537,data:titanic:passenger:134,has_a_name,Samuel L \(Edwiga Grabowska\) Goldenberg
 538,data:titanic:passenger:134,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 539,data:titanic:passenger:134,has_an_age_of,Unknown
 540,data:titanic:passenger:135,is_a,https://en.wikipedia.org/wiki/Man
@@ -556,7 +556,7 @@
 554,data:titanic:passenger:138,has_a_marital_status,Unknown
 555,data:titanic:passenger:138,has_an_age_of,38.0
 556,data:titanic:passenger:139,is_a,https://en.wikipedia.org/wiki/Woman
-557,data:titanic:passenger:139,has_a_name,William Thompson (Edith Junkins) Graham
+557,data:titanic:passenger:139,has_a_name,William Thompson \(Edith Junkins\) Graham
 558,data:titanic:passenger:139,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 559,data:titanic:passenger:139,has_an_age_of,58.0
 560,data:titanic:passenger:140,is_a,https://en.wikipedia.org/wiki/Man
@@ -564,7 +564,7 @@
 562,data:titanic:passenger:140,has_a_marital_status,Unknown
 563,data:titanic:passenger:140,has_an_age_of,23.0
 564,data:titanic:passenger:141,is_a,https://en.wikipedia.org/wiki/Woman
-565,data:titanic:passenger:141,has_a_name,Leo David (Blanche Strouse) Greenfield
+565,data:titanic:passenger:141,has_a_name,Leo David \(Blanche Strouse\) Greenfield
 566,data:titanic:passenger:141,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 567,data:titanic:passenger:141,has_an_age_of,45.0
 568,data:titanic:passenger:142,is_a,https://en.wikipedia.org/wiki/Man
@@ -576,7 +576,7 @@
 574,data:titanic:passenger:143,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 575,data:titanic:passenger:143,has_an_age_of,25.0
 576,data:titanic:passenger:144,is_a,https://en.wikipedia.org/wiki/Woman
-577,data:titanic:passenger:144,has_a_name,George Achilles (Dorothy Annan) Harder
+577,data:titanic:passenger:144,has_a_name,George Achilles \(Dorothy Annan\) Harder
 578,data:titanic:passenger:144,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 579,data:titanic:passenger:144,has_an_age_of,25.0
 580,data:titanic:passenger:145,is_a,https://en.wikipedia.org/wiki/Man
@@ -584,7 +584,7 @@
 582,data:titanic:passenger:145,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 583,data:titanic:passenger:145,has_an_age_of,48.0
 584,data:titanic:passenger:146,is_a,https://en.wikipedia.org/wiki/Woman
-585,data:titanic:passenger:146,has_a_name,Henry Sleeper (Myna Haxtun) Harper
+585,data:titanic:passenger:146,has_a_name,Henry Sleeper \(Myna Haxtun\) Harper
 586,data:titanic:passenger:146,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 587,data:titanic:passenger:146,has_an_age_of,49.0
 588,data:titanic:passenger:147,is_a,https://en.wikipedia.org/wiki/Man
@@ -596,7 +596,7 @@
 594,data:titanic:passenger:148,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 595,data:titanic:passenger:148,has_an_age_of,45.0
 596,data:titanic:passenger:149,is_a,https://en.wikipedia.org/wiki/Woman
-597,data:titanic:passenger:149,has_a_name,Henry Birkhardt (Irene Wallach) Harris
+597,data:titanic:passenger:149,has_a_name,Henry Birkhardt \(Irene Wallach\) Harris
 598,data:titanic:passenger:149,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 599,data:titanic:passenger:149,has_an_age_of,35.0
 600,data:titanic:passenger:150,is_a,https://en.wikipedia.org/wiki/Man
@@ -620,7 +620,7 @@
 618,data:titanic:passenger:154,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 619,data:titanic:passenger:154,has_an_age_of,55.0
 620,data:titanic:passenger:155,is_a,https://en.wikipedia.org/wiki/Woman
-621,data:titanic:passenger:155,has_a_name,Charles Melville (Clara Jennings Gregg) Hays
+621,data:titanic:passenger:155,has_a_name,Charles Melville \(Clara Jennings Gregg\) Hays
 622,data:titanic:passenger:155,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 623,data:titanic:passenger:155,has_an_age_of,52.0
 624,data:titanic:passenger:156,is_a,https://en.wikipedia.org/wiki/Man
@@ -640,11 +640,11 @@
 638,data:titanic:passenger:159,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 639,data:titanic:passenger:159,has_an_age_of,16.0
 640,data:titanic:passenger:160,is_a,https://en.wikipedia.org/wiki/Woman
-641,data:titanic:passenger:160,has_a_name,Louis Albert (Ida Sophia Fischer) Hippach
+641,data:titanic:passenger:160,has_a_name,Louis Albert \(Ida Sophia Fischer\) Hippach
 642,data:titanic:passenger:160,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 643,data:titanic:passenger:160,has_an_age_of,44.0
 644,data:titanic:passenger:161,is_a,https://en.wikipedia.org/wiki/Woman
-645,data:titanic:passenger:161,has_a_name,John C (Anna Andrews) Hogeboom
+645,data:titanic:passenger:161,has_a_name,John C \(Anna Andrews\) Hogeboom
 646,data:titanic:passenger:161,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 647,data:titanic:passenger:161,has_an_age_of,51.0
 648,data:titanic:passenger:162,is_a,https://en.wikipedia.org/wiki/Man
@@ -652,11 +652,11 @@
 650,data:titanic:passenger:162,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 651,data:titanic:passenger:162,has_an_age_of,42.0
 652,data:titanic:passenger:163,is_a,https://en.wikipedia.org/wiki/Woman
-653,data:titanic:passenger:163,has_a_name,Alexander Oskar (Mary Aline Towner) Holverson
+653,data:titanic:passenger:163,has_a_name,Alexander Oskar \(Mary Aline Towner\) Holverson
 654,data:titanic:passenger:163,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 655,data:titanic:passenger:163,has_an_age_of,35.0
 656,data:titanic:passenger:164,is_a,https://en.wikipedia.org/wiki/Man
-657,data:titanic:passenger:164,has_a_name,"Harry (""Mr E Haven"") Homer"
+657,data:titanic:passenger:164,has_a_name,"Harry \(""Mr E Haven""\) Homer"
 658,data:titanic:passenger:164,has_a_marital_status,Unknown
 659,data:titanic:passenger:164,has_an_age_of,35.0
 660,data:titanic:passenger:165,is_a,https://en.wikipedia.org/wiki/Man
@@ -668,7 +668,7 @@
 666,data:titanic:passenger:166,has_a_marital_status,Unknown
 667,data:titanic:passenger:166,has_an_age_of,Unknown
 668,data:titanic:passenger:167,is_a,https://en.wikipedia.org/wiki/Woman
-669,data:titanic:passenger:167,has_a_name,Frederick Maxfield (Jane Anne Forby) Hoyt
+669,data:titanic:passenger:167,has_a_name,Frederick Maxfield \(Jane Anne Forby\) Hoyt
 670,data:titanic:passenger:167,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 671,data:titanic:passenger:167,has_an_age_of,35.0
 672,data:titanic:passenger:168,is_a,https://en.wikipedia.org/wiki/Woman
@@ -704,7 +704,7 @@
 702,data:titanic:passenger:175,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 703,data:titanic:passenger:175,has_an_age_of,41.0
 704,data:titanic:passenger:176,is_a,https://en.wikipedia.org/wiki/Woman
-705,data:titanic:passenger:176,has_a_name,Frederick R (Marion) Kenyon
+705,data:titanic:passenger:176,has_a_name,Frederick R \(Marion\) Kenyon
 706,data:titanic:passenger:176,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 707,data:titanic:passenger:176,has_an_age_of,Unknown
 708,data:titanic:passenger:177,is_a,https://en.wikipedia.org/wiki/Man
@@ -712,7 +712,7 @@
 710,data:titanic:passenger:177,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 711,data:titanic:passenger:177,has_an_age_of,42.0
 712,data:titanic:passenger:178,is_a,https://en.wikipedia.org/wiki/Woman
-713,data:titanic:passenger:178,has_a_name,Edwin Nelson Jr (Gertrude Parsons) Kimball
+713,data:titanic:passenger:178,has_a_name,Edwin Nelson Jr \(Gertrude Parsons\) Kimball
 714,data:titanic:passenger:178,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 715,data:titanic:passenger:178,has_an_age_of,45.0
 716,data:titanic:passenger:179,is_a,https://en.wikipedia.org/wiki/Man
@@ -724,7 +724,7 @@
 722,data:titanic:passenger:180,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 723,data:titanic:passenger:180,has_an_age_of,39.0
 724,data:titanic:passenger:181,is_a,https://en.wikipedia.org/wiki/Woman
-725,data:titanic:passenger:181,has_a_name,Alice (Farnham) Leader
+725,data:titanic:passenger:181,has_a_name,Alice \(Farnham\) Leader
 726,data:titanic:passenger:181,has_a_marital_status,Unknown
 727,data:titanic:passenger:181,has_an_age_of,49.0
 728,data:titanic:passenger:182,is_a,https://en.wikipedia.org/wiki/Woman
@@ -740,11 +740,11 @@
 738,data:titanic:passenger:184,has_a_marital_status,Unknown
 739,data:titanic:passenger:184,has_an_age_of,Unknown
 740,data:titanic:passenger:185,is_a,https://en.wikipedia.org/wiki/Man
-741,data:titanic:passenger:185,has_a_name,"Erik Gustaf (""Mr Edward Lingrey"") Lindeberg-Lind"
+741,data:titanic:passenger:185,has_a_name,"Erik Gustaf \(""Mr Edward Lingrey""\) Lindeberg-Lind"
 742,data:titanic:passenger:185,has_a_marital_status,Unknown
 743,data:titanic:passenger:185,has_an_age_of,42.0
 744,data:titanic:passenger:186,is_a,https://en.wikipedia.org/wiki/Woman
-745,data:titanic:passenger:186,has_a_name,Carl Johan (Sigrid Posse) Lindstrom
+745,data:titanic:passenger:186,has_a_name,Carl Johan \(Sigrid Posse\) Lindstrom
 746,data:titanic:passenger:186,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 747,data:titanic:passenger:186,has_an_age_of,55.0
 748,data:titanic:passenger:187,is_a,https://en.wikipedia.org/wiki/Woman
@@ -752,7 +752,7 @@
 750,data:titanic:passenger:187,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 751,data:titanic:passenger:187,has_an_age_of,16.0
 752,data:titanic:passenger:188,is_a,https://en.wikipedia.org/wiki/Woman
-753,data:titanic:passenger:188,has_a_name,Ernest H (Elizabeth Lindsey James) Lines
+753,data:titanic:passenger:188,has_a_name,Ernest H \(Elizabeth Lindsey James\) Lines
 754,data:titanic:passenger:188,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 755,data:titanic:passenger:188,has_an_age_of,51.0
 756,data:titanic:passenger:189,is_a,https://en.wikipedia.org/wiki/Man
@@ -792,11 +792,11 @@
 790,data:titanic:passenger:197,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 791,data:titanic:passenger:197,has_an_age_of,19.0
 792,data:titanic:passenger:198,is_a,https://en.wikipedia.org/wiki/Woman
-793,data:titanic:passenger:198,has_a_name,Daniel Warner (Mary Graham Carmichael Farquarson) Marvin
+793,data:titanic:passenger:198,has_a_name,Daniel Warner \(Mary Graham Carmichael Farquarson\) Marvin
 794,data:titanic:passenger:198,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 795,data:titanic:passenger:198,has_an_age_of,18.0
 796,data:titanic:passenger:199,is_a,https://en.wikipedia.org/wiki/Woman
-797,data:titanic:passenger:199,has_a_name,"Berthe Antonine (""Mrs de Villiers"") Mayne"
+797,data:titanic:passenger:199,has_a_name,"Berthe Antonine \(""Mrs de Villiers""\) Mayne"
 798,data:titanic:passenger:199,has_a_marital_status,Unknown
 799,data:titanic:passenger:199,has_an_age_of,24.0
 800,data:titanic:passenger:200,is_a,https://en.wikipedia.org/wiki/Man
@@ -816,7 +816,7 @@
 814,data:titanic:passenger:203,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 815,data:titanic:passenger:203,has_an_age_of,28.0
 816,data:titanic:passenger:204,is_a,https://en.wikipedia.org/wiki/Woman
-817,data:titanic:passenger:204,has_a_name,Edgar Joseph (Leila Saks) Meyer
+817,data:titanic:passenger:204,has_a_name,Edgar Joseph \(Leila Saks\) Meyer
 818,data:titanic:passenger:204,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 819,data:titanic:passenger:204,has_an_age_of,Unknown
 820,data:titanic:passenger:205,is_a,https://en.wikipedia.org/wiki/Man
@@ -832,7 +832,7 @@
 830,data:titanic:passenger:207,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 831,data:titanic:passenger:207,has_an_age_of,33.0
 832,data:titanic:passenger:208,is_a,https://en.wikipedia.org/wiki/Woman
-833,data:titanic:passenger:208,has_a_name,William Edward (Lillian E Thorpe) Minahan
+833,data:titanic:passenger:208,has_a_name,William Edward \(Lillian E Thorpe\) Minahan
 834,data:titanic:passenger:208,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 835,data:titanic:passenger:208,has_an_age_of,37.0
 836,data:titanic:passenger:209,is_a,https://en.wikipedia.org/wiki/Man
@@ -908,7 +908,7 @@
 906,data:titanic:passenger:226,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 907,data:titanic:passenger:226,has_an_age_of,29.0
 908,data:titanic:passenger:227,is_a,https://en.wikipedia.org/wiki/Woman
-909,data:titanic:passenger:227,has_a_name,Thomas (Edith Wearne) Pears
+909,data:titanic:passenger:227,has_a_name,Thomas \(Edith Wearne\) Pears
 910,data:titanic:passenger:227,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 911,data:titanic:passenger:227,has_an_age_of,22.0
 912,data:titanic:passenger:228,is_a,https://en.wikipedia.org/wiki/Man
@@ -916,7 +916,7 @@
 914,data:titanic:passenger:228,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 915,data:titanic:passenger:228,has_an_age_of,18.0
 916,data:titanic:passenger:229,is_a,https://en.wikipedia.org/wiki/Woman
-917,data:titanic:passenger:229,has_a_name,Victor de Satode (Maria Josefa Perez de Soto y Vallejo) Penasco y Castellana
+917,data:titanic:passenger:229,has_a_name,Victor de Satode \(Maria Josefa Perez de Soto y Vallejo\) Penasco y Castellana
 918,data:titanic:passenger:229,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 919,data:titanic:passenger:229,has_an_age_of,17.0
 920,data:titanic:passenger:230,is_a,https://en.wikipedia.org/wiki/Woman
@@ -932,7 +932,7 @@
 930,data:titanic:passenger:232,has_a_marital_status,Unknown
 931,data:titanic:passenger:232,has_an_age_of,47.0
 932,data:titanic:passenger:233,is_a,https://en.wikipedia.org/wiki/Woman
-933,data:titanic:passenger:233,has_a_name,Thomas Jr (Lily Alexenia Wilson) Potter
+933,data:titanic:passenger:233,has_a_name,Thomas Jr \(Lily Alexenia Wilson\) Potter
 934,data:titanic:passenger:233,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 935,data:titanic:passenger:233,has_an_age_of,56.0
 936,data:titanic:passenger:234,is_a,https://en.wikipedia.org/wiki/Man
@@ -952,7 +952,7 @@
 950,data:titanic:passenger:237,has_a_marital_status,Unknown
 951,data:titanic:passenger:237,has_an_age_of,Unknown
 952,data:titanic:passenger:238,is_a,https://en.wikipedia.org/wiki/Woman
-953,data:titanic:passenger:238,has_a_name,Edward Scott (Elisabeth Walton McMillan) Robert
+953,data:titanic:passenger:238,has_a_name,Edward Scott \(Elisabeth Walton McMillan\) Robert
 954,data:titanic:passenger:238,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 955,data:titanic:passenger:238,has_an_age_of,43.0
 956,data:titanic:passenger:239,is_a,https://en.wikipedia.org/wiki/Man
@@ -960,7 +960,7 @@
 958,data:titanic:passenger:239,has_a_marital_status,Unknown
 959,data:titanic:passenger:239,has_an_age_of,31.0
 960,data:titanic:passenger:240,is_a,https://en.wikipedia.org/wiki/Man
-961,data:titanic:passenger:240,has_a_name,"Charles Hallace (""Mr C Rolmane"") Romaine"
+961,data:titanic:passenger:240,has_a_name,"Charles Hallace \(""Mr C Rolmane""\) Romaine"
 962,data:titanic:passenger:240,has_a_marital_status,Unknown
 963,data:titanic:passenger:240,has_an_age_of,45.0
 964,data:titanic:passenger:241,is_a,https://en.wikipedia.org/wiki/Man
@@ -972,7 +972,7 @@
 970,data:titanic:passenger:242,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 971,data:titanic:passenger:242,has_an_age_of,33.0
 972,data:titanic:passenger:243,is_a,https://en.wikipedia.org/wiki/Man
-973,data:titanic:passenger:243,has_a_name,"George (""Mr George Thorne"") Rosenshine"
+973,data:titanic:passenger:243,has_a_name,"George \(""Mr George Thorne""\) Rosenshine"
 974,data:titanic:passenger:243,has_a_marital_status,Unknown
 975,data:titanic:passenger:243,has_an_age_of,46.0
 976,data:titanic:passenger:244,is_a,https://en.wikipedia.org/wiki/Man
@@ -980,7 +980,7 @@
 978,data:titanic:passenger:244,has_a_marital_status,Unknown
 979,data:titanic:passenger:244,has_an_age_of,36.0
 980,data:titanic:passenger:245,is_a,https://en.wikipedia.org/wiki/Woman
-981,data:titanic:passenger:245,has_a_name,of (Lucy Noel Martha Dyer-Edwards) Rothes
+981,data:titanic:passenger:245,has_a_name,of \(Lucy Noel Martha Dyer-Edwards\) Rothes
 982,data:titanic:passenger:245,has_a_marital_status,Unknown
 983,data:titanic:passenger:245,has_an_age_of,33.0
 984,data:titanic:passenger:246,is_a,https://en.wikipedia.org/wiki/Man
@@ -988,7 +988,7 @@
 986,data:titanic:passenger:246,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 987,data:titanic:passenger:246,has_an_age_of,55.0
 988,data:titanic:passenger:247,is_a,https://en.wikipedia.org/wiki/Woman
-989,data:titanic:passenger:247,has_a_name,Martin (Elizabeth L Rothschild
+989,data:titanic:passenger:247,has_a_name,Martin \(Elizabeth L Rothschild
 990,data:titanic:passenger:247,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 991,data:titanic:passenger:247,has_an_age_of,54.0
 992,data:titanic:passenger:248,is_a,https://en.wikipedia.org/wiki/Man
@@ -1012,7 +1012,7 @@
 1010,data:titanic:passenger:252,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1011,data:titanic:passenger:252,has_an_age_of,61.0
 1012,data:titanic:passenger:253,is_a,https://en.wikipedia.org/wiki/Woman
-1013,data:titanic:passenger:253,has_a_name,Arthur Larned (Emily Maria Borie) Ryerson
+1013,data:titanic:passenger:253,has_a_name,Arthur Larned \(Emily Maria Borie\) Ryerson
 1014,data:titanic:passenger:253,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1015,data:titanic:passenger:253,has_an_age_of,48.0
 1016,data:titanic:passenger:254,is_a,https://en.wikipedia.org/wiki/Man
@@ -1028,7 +1028,7 @@
 1026,data:titanic:passenger:256,has_a_marital_status,Unknown
 1027,data:titanic:passenger:256,has_an_age_of,Unknown
 1028,data:titanic:passenger:257,is_a,https://en.wikipedia.org/wiki/Woman
-1029,data:titanic:passenger:257,has_a_name,Paul (Emma Mock) Schabert
+1029,data:titanic:passenger:257,has_a_name,Paul \(Emma Mock\) Schabert
 1030,data:titanic:passenger:257,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1031,data:titanic:passenger:257,has_an_age_of,35.0
 1032,data:titanic:passenger:258,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1052,7 +1052,7 @@
 1050,data:titanic:passenger:262,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1051,data:titanic:passenger:262,has_an_age_of,50.0
 1052,data:titanic:passenger:263,is_a,https://en.wikipedia.org/wiki/Woman
-1053,data:titanic:passenger:263,has_a_name,William Baird (Alice Munger) Silvey
+1053,data:titanic:passenger:263,has_a_name,William Baird \(Alice Munger\) Silvey
 1054,data:titanic:passenger:263,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1055,data:titanic:passenger:263,has_an_age_of,39.0
 1056,data:titanic:passenger:264,is_a,https://en.wikipedia.org/wiki/Man
@@ -1080,7 +1080,7 @@
 1078,data:titanic:passenger:269,has_a_marital_status,Unknown
 1079,data:titanic:passenger:269,has_an_age_of,Unknown
 1080,data:titanic:passenger:270,is_a,https://en.wikipedia.org/wiki/Woman
-1081,data:titanic:passenger:270,has_a_name,Lucien Philip (Mary Eloise Hughes) Smith
+1081,data:titanic:passenger:270,has_a_name,Lucien Philip \(Mary Eloise Hughes\) Smith
 1082,data:titanic:passenger:270,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1083,data:titanic:passenger:270,has_an_age_of,18.0
 1084,data:titanic:passenger:271,is_a,https://en.wikipedia.org/wiki/Man
@@ -1088,7 +1088,7 @@
 1086,data:titanic:passenger:271,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1087,data:titanic:passenger:271,has_an_age_of,24.0
 1088,data:titanic:passenger:272,is_a,https://en.wikipedia.org/wiki/Woman
-1089,data:titanic:passenger:272,has_a_name,John Pillsbury (Nelle Stevenson) Snyder
+1089,data:titanic:passenger:272,has_a_name,John Pillsbury \(Nelle Stevenson\) Snyder
 1090,data:titanic:passenger:272,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1091,data:titanic:passenger:272,has_an_age_of,23.0
 1092,data:titanic:passenger:273,is_a,https://en.wikipedia.org/wiki/Man
@@ -1100,7 +1100,7 @@
 1098,data:titanic:passenger:274,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1099,data:titanic:passenger:274,has_an_age_of,45.0
 1100,data:titanic:passenger:275,is_a,https://en.wikipedia.org/wiki/Woman
-1101,data:titanic:passenger:275,has_a_name,Frederic Oakley (Margaretta Corning Stone) Spedden
+1101,data:titanic:passenger:275,has_a_name,Frederic Oakley \(Margaretta Corning Stone\) Spedden
 1102,data:titanic:passenger:275,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1103,data:titanic:passenger:275,has_an_age_of,40.0
 1104,data:titanic:passenger:276,is_a,https://en.wikipedia.org/wiki/Man
@@ -1108,7 +1108,7 @@
 1106,data:titanic:passenger:276,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1107,data:titanic:passenger:276,has_an_age_of,57.0
 1108,data:titanic:passenger:277,is_a,https://en.wikipedia.org/wiki/Woman
-1109,data:titanic:passenger:277,has_a_name,William Augustus (Marie Eugenie) Spencer
+1109,data:titanic:passenger:277,has_a_name,William Augustus \(Marie Eugenie\) Spencer
 1110,data:titanic:passenger:277,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1111,data:titanic:passenger:277,has_an_age_of,Unknown
 1112,data:titanic:passenger:278,is_a,https://en.wikipedia.org/wiki/Man
@@ -1124,11 +1124,11 @@
 1122,data:titanic:passenger:280,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1123,data:titanic:passenger:280,has_an_age_of,54.0
 1124,data:titanic:passenger:281,is_a,https://en.wikipedia.org/wiki/Woman
-1125,data:titanic:passenger:281,has_a_name,Charles Emil Henry (Annie May Morris) Stengel
+1125,data:titanic:passenger:281,has_a_name,Charles Emil Henry \(Annie May Morris\) Stengel
 1126,data:titanic:passenger:281,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1127,data:titanic:passenger:281,has_an_age_of,43.0
 1128,data:titanic:passenger:282,is_a,https://en.wikipedia.org/wiki/Woman
-1129,data:titanic:passenger:282,has_a_name,Walter Bertram (Martha Eustis) Stephenson
+1129,data:titanic:passenger:282,has_a_name,Walter Bertram \(Martha Eustis\) Stephenson
 1130,data:titanic:passenger:282,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1131,data:titanic:passenger:282,has_an_age_of,52.0
 1132,data:titanic:passenger:283,is_a,https://en.wikipedia.org/wiki/Man
@@ -1136,7 +1136,7 @@
 1134,data:titanic:passenger:283,has_a_marital_status,Unknown
 1135,data:titanic:passenger:283,has_an_age_of,Unknown
 1136,data:titanic:passenger:284,is_a,https://en.wikipedia.org/wiki/Woman
-1137,data:titanic:passenger:284,has_a_name,George Nelson (Martha Evelyn) Stone
+1137,data:titanic:passenger:284,has_a_name,George Nelson \(Martha Evelyn\) Stone
 1138,data:titanic:passenger:284,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1139,data:titanic:passenger:284,has_an_age_of,62.0
 1140,data:titanic:passenger:285,is_a,https://en.wikipedia.org/wiki/Man
@@ -1144,7 +1144,7 @@
 1142,data:titanic:passenger:285,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1143,data:titanic:passenger:285,has_an_age_of,67.0
 1144,data:titanic:passenger:286,is_a,https://en.wikipedia.org/wiki/Woman
-1145,data:titanic:passenger:286,has_a_name,Isidor (Rosalie Ida Blun) Straus
+1145,data:titanic:passenger:286,has_a_name,Isidor \(Rosalie Ida Blun\) Straus
 1146,data:titanic:passenger:286,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1147,data:titanic:passenger:286,has_an_age_of,63.0
 1148,data:titanic:passenger:287,is_a,https://en.wikipedia.org/wiki/Man
@@ -1152,7 +1152,7 @@
 1150,data:titanic:passenger:287,has_a_marital_status,Unknown
 1151,data:titanic:passenger:287,has_an_age_of,61.0
 1152,data:titanic:passenger:288,is_a,https://en.wikipedia.org/wiki/Woman
-1153,data:titanic:passenger:288,has_a_name,Frederick Joel (Margaret Welles Barron) Swift
+1153,data:titanic:passenger:288,has_a_name,Frederick Joel \(Margaret Welles Barron\) Swift
 1154,data:titanic:passenger:288,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1155,data:titanic:passenger:288,has_an_age_of,48.0
 1156,data:titanic:passenger:289,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1164,7 +1164,7 @@
 1162,data:titanic:passenger:290,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1163,data:titanic:passenger:290,has_an_age_of,52.0
 1164,data:titanic:passenger:291,is_a,https://en.wikipedia.org/wiki/Woman
-1165,data:titanic:passenger:291,has_a_name,Emil (Tillie Mandelbaum) Taussig
+1165,data:titanic:passenger:291,has_a_name,Emil \(Tillie Mandelbaum\) Taussig
 1166,data:titanic:passenger:291,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1167,data:titanic:passenger:291,has_an_age_of,39.0
 1168,data:titanic:passenger:292,is_a,https://en.wikipedia.org/wiki/Man
@@ -1172,7 +1172,7 @@
 1170,data:titanic:passenger:292,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1171,data:titanic:passenger:292,has_an_age_of,48.0
 1172,data:titanic:passenger:293,is_a,https://en.wikipedia.org/wiki/Woman
-1173,data:titanic:passenger:293,has_a_name,Elmer Zebley (Juliet Cummins Wright) Taylor
+1173,data:titanic:passenger:293,has_a_name,Elmer Zebley \(Juliet Cummins Wright\) Taylor
 1174,data:titanic:passenger:293,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1175,data:titanic:passenger:293,has_an_age_of,Unknown
 1176,data:titanic:passenger:294,is_a,https://en.wikipedia.org/wiki/Man
@@ -1184,7 +1184,7 @@
 1182,data:titanic:passenger:295,has_a_marital_status,Unknown
 1183,data:titanic:passenger:295,has_an_age_of,17.0
 1184,data:titanic:passenger:296,is_a,https://en.wikipedia.org/wiki/Woman
-1185,data:titanic:passenger:296,has_a_name,John Borland (Marian Longstreth Morris) Thayer
+1185,data:titanic:passenger:296,has_a_name,John Borland \(Marian Longstreth Morris\) Thayer
 1186,data:titanic:passenger:296,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1187,data:titanic:passenger:296,has_an_age_of,39.0
 1188,data:titanic:passenger:297,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1216,7 +1216,7 @@
 1214,data:titanic:passenger:303,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1215,data:titanic:passenger:303,has_an_age_of,64.0
 1216,data:titanic:passenger:304,is_a,https://en.wikipedia.org/wiki/Woman
-1217,data:titanic:passenger:304,has_a_name,Frank Manley (Anna Sophia Atkinson) Warren
+1217,data:titanic:passenger:304,has_a_name,Frank Manley \(Anna Sophia Atkinson\) Warren
 1218,data:titanic:passenger:304,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1219,data:titanic:passenger:304,has_an_age_of,60.0
 1220,data:titanic:passenger:305,is_a,https://en.wikipedia.org/wiki/Man
@@ -1232,7 +1232,7 @@
 1230,data:titanic:passenger:307,has_a_marital_status,Unknown
 1231,data:titanic:passenger:307,has_an_age_of,21.0
 1232,data:titanic:passenger:308,is_a,https://en.wikipedia.org/wiki/Woman
-1233,data:titanic:passenger:308,has_a_name,John Stuart (Ella Holmes) White
+1233,data:titanic:passenger:308,has_a_name,John Stuart \(Ella Holmes\) White
 1234,data:titanic:passenger:308,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1235,data:titanic:passenger:308,has_an_age_of,55.0
 1236,data:titanic:passenger:309,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1244,7 +1244,7 @@
 1242,data:titanic:passenger:310,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1243,data:titanic:passenger:310,has_an_age_of,57.0
 1244,data:titanic:passenger:311,is_a,https://en.wikipedia.org/wiki/Woman
-1245,data:titanic:passenger:311,has_a_name,George Dennick (Mary Hitchcock) Wick
+1245,data:titanic:passenger:311,has_a_name,George Dennick \(Mary Hitchcock\) Wick
 1246,data:titanic:passenger:311,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1247,data:titanic:passenger:311,has_an_age_of,45.0
 1248,data:titanic:passenger:312,is_a,https://en.wikipedia.org/wiki/Man
@@ -1256,7 +1256,7 @@
 1254,data:titanic:passenger:313,has_a_marital_status,Unknown
 1255,data:titanic:passenger:313,has_an_age_of,27.0
 1256,data:titanic:passenger:314,is_a,https://en.wikipedia.org/wiki/Woman
-1257,data:titanic:passenger:314,has_a_name,George Dunton (Eleanor Elkins) Widener
+1257,data:titanic:passenger:314,has_a_name,George Dunton \(Eleanor Elkins\) Widener
 1258,data:titanic:passenger:314,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1259,data:titanic:passenger:314,has_an_age_of,50.0
 1260,data:titanic:passenger:315,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1296,7 +1296,7 @@
 1294,data:titanic:passenger:323,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1295,data:titanic:passenger:323,has_an_age_of,30.0
 1296,data:titanic:passenger:324,is_a,https://en.wikipedia.org/wiki/Woman
-1297,data:titanic:passenger:324,has_a_name,Samuel (Hannah Wizosky) Abelson
+1297,data:titanic:passenger:324,has_a_name,Samuel \(Hannah Wizosky\) Abelson
 1298,data:titanic:passenger:324,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1299,data:titanic:passenger:324,has_an_age_of,28.0
 1300,data:titanic:passenger:325,is_a,https://en.wikipedia.org/wiki/Man
@@ -1316,7 +1316,7 @@
 1314,data:titanic:passenger:328,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1315,data:titanic:passenger:328,has_an_age_of,34.0
 1316,data:titanic:passenger:329,is_a,https://en.wikipedia.org/wiki/Woman
-1317,data:titanic:passenger:329,has_a_name,"William A (Florence ""Mary"" Agnes Hughes) Angle"
+1317,data:titanic:passenger:329,has_a_name,"William A \(Florence ""Mary"" Agnes Hughes\) Angle"
 1318,data:titanic:passenger:329,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1319,data:titanic:passenger:329,has_an_age_of,36.0
 1320,data:titanic:passenger:330,is_a,https://en.wikipedia.org/wiki/Man
@@ -1332,7 +1332,7 @@
 1330,data:titanic:passenger:332,has_a_marital_status,Unknown
 1331,data:titanic:passenger:332,has_an_age_of,23.0
 1332,data:titanic:passenger:333,is_a,https://en.wikipedia.org/wiki/Woman
-1333,data:titanic:passenger:333,has_a_name,(Ada E Hall) Ball
+1333,data:titanic:passenger:333,has_a_name,\(Ada E Hall\) Ball
 1334,data:titanic:passenger:333,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1335,data:titanic:passenger:333,has_an_age_of,36.0
 1336,data:titanic:passenger:334,is_a,https://en.wikipedia.org/wiki/Man
@@ -1348,7 +1348,7 @@
 1346,data:titanic:passenger:336,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1347,data:titanic:passenger:336,has_an_age_of,32.0
 1348,data:titanic:passenger:337,is_a,https://en.wikipedia.org/wiki/Woman
-1349,data:titanic:passenger:337,has_a_name,Edward (Ethel Clarke) Beane
+1349,data:titanic:passenger:337,has_a_name,Edward \(Ethel Clarke\) Beane
 1350,data:titanic:passenger:337,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1351,data:titanic:passenger:337,has_an_age_of,19.0
 1352,data:titanic:passenger:338,is_a,https://en.wikipedia.org/wiki/Man
@@ -1368,7 +1368,7 @@
 1366,data:titanic:passenger:341,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 1367,data:titanic:passenger:341,has_an_age_of,12.0
 1368,data:titanic:passenger:342,is_a,https://en.wikipedia.org/wiki/Woman
-1369,data:titanic:passenger:342,has_a_name,Allen Oliver (Nellie E Baumgardner) Becker
+1369,data:titanic:passenger:342,has_a_name,Allen Oliver \(Nellie E Baumgardner\) Becker
 1370,data:titanic:passenger:342,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1371,data:titanic:passenger:342,has_an_age_of,36.0
 1372,data:titanic:passenger:343,is_a,https://en.wikipedia.org/wiki/Man
@@ -1408,7 +1408,7 @@
 1406,data:titanic:passenger:351,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1407,data:titanic:passenger:351,has_an_age_of,60.0
 1408,data:titanic:passenger:352,is_a,https://en.wikipedia.org/wiki/Woman
-1409,data:titanic:passenger:352,has_a_name,Thomas William Solomon (Elizabeth Catherine Ford) Brown
+1409,data:titanic:passenger:352,has_a_name,Thomas William Solomon \(Elizabeth Catherine Ford\) Brown
 1410,data:titanic:passenger:352,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1411,data:titanic:passenger:352,has_an_age_of,40.0
 1412,data:titanic:passenger:353,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1432,7 +1432,7 @@
 1430,data:titanic:passenger:357,has_a_marital_status,Unknown
 1431,data:titanic:passenger:357,has_an_age_of,42.0
 1432,data:titanic:passenger:358,is_a,https://en.wikipedia.org/wiki/Woman
-1433,data:titanic:passenger:358,has_a_name,(Karolina) Bystrom
+1433,data:titanic:passenger:358,has_a_name,\(Karolina\) Bystrom
 1434,data:titanic:passenger:358,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1435,data:titanic:passenger:358,has_an_age_of,42.0
 1436,data:titanic:passenger:359,is_a,https://en.wikipedia.org/wiki/Man
@@ -1444,7 +1444,7 @@
 1442,data:titanic:passenger:360,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1443,data:titanic:passenger:360,has_an_age_of,26.0
 1444,data:titanic:passenger:361,is_a,https://en.wikipedia.org/wiki/Woman
-1445,data:titanic:passenger:361,has_a_name,Albert Francis (Sylvia Mae Harbaugh) Caldwell
+1445,data:titanic:passenger:361,has_a_name,Albert Francis \(Sylvia Mae Harbaugh\) Caldwell
 1446,data:titanic:passenger:361,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1447,data:titanic:passenger:361,has_an_age_of,22.0
 1448,data:titanic:passenger:362,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1460,7 +1460,7 @@
 1458,data:titanic:passenger:364,has_a_marital_status,Unknown
 1459,data:titanic:passenger:364,has_an_age_of,19.0
 1460,data:titanic:passenger:365,is_a,https://en.wikipedia.org/wiki/Woman
-1461,data:titanic:passenger:365,has_a_name,Ernest Courtenay (Lilian Hughes) Carter
+1461,data:titanic:passenger:365,has_a_name,Ernest Courtenay \(Lilian Hughes\) Carter
 1462,data:titanic:passenger:365,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1463,data:titanic:passenger:365,has_an_age_of,44.0
 1464,data:titanic:passenger:366,is_a,https://en.wikipedia.org/wiki/Man
@@ -1476,7 +1476,7 @@
 1474,data:titanic:passenger:368,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1475,data:titanic:passenger:368,has_an_age_of,37.0
 1476,data:titanic:passenger:369,is_a,https://en.wikipedia.org/wiki/Woman
-1477,data:titanic:passenger:369,has_a_name,John Henry (Sara Elizabeth Lawry) Chapman
+1477,data:titanic:passenger:369,has_a_name,John Henry \(Sara Elizabeth Lawry\) Chapman
 1478,data:titanic:passenger:369,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1479,data:titanic:passenger:369,has_an_age_of,29.0
 1480,data:titanic:passenger:370,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1484,7 +1484,7 @@
 1482,data:titanic:passenger:370,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 1483,data:titanic:passenger:370,has_an_age_of,25.0
 1484,data:titanic:passenger:371,is_a,https://en.wikipedia.org/wiki/Woman
-1485,data:titanic:passenger:371,has_a_name,(Alice Frances) Christy
+1485,data:titanic:passenger:371,has_a_name,\(Alice Frances\) Christy
 1486,data:titanic:passenger:371,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1487,data:titanic:passenger:371,has_an_age_of,45.0
 1488,data:titanic:passenger:372,is_a,https://en.wikipedia.org/wiki/Man
@@ -1492,7 +1492,7 @@
 1490,data:titanic:passenger:372,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1491,data:titanic:passenger:372,has_an_age_of,29.0
 1492,data:titanic:passenger:373,is_a,https://en.wikipedia.org/wiki/Woman
-1493,data:titanic:passenger:373,has_a_name,Charles V (Ada Maria Winfield) Clarke
+1493,data:titanic:passenger:373,has_a_name,Charles V \(Ada Maria Winfield\) Clarke
 1494,data:titanic:passenger:373,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1495,data:titanic:passenger:373,has_an_age_of,28.0
 1496,data:titanic:passenger:374,is_a,https://en.wikipedia.org/wiki/Man
@@ -1516,19 +1516,19 @@
 1514,data:titanic:passenger:378,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1515,data:titanic:passenger:378,has_an_age_of,31.0
 1516,data:titanic:passenger:379,is_a,https://en.wikipedia.org/wiki/Woman
-1517,data:titanic:passenger:379,has_a_name,Harvey (Charlotte Annie Tate) Collyer
+1517,data:titanic:passenger:379,has_a_name,Harvey \(Charlotte Annie Tate\) Collyer
 1518,data:titanic:passenger:379,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1519,data:titanic:passenger:379,has_an_age_of,31.0
 1520,data:titanic:passenger:380,is_a,https://en.wikipedia.org/wiki/Woman
-1521,data:titanic:passenger:380,has_a_name,(Selena Rogers) Cook
+1521,data:titanic:passenger:380,has_a_name,\(Selena Rogers\) Cook
 1522,data:titanic:passenger:380,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1523,data:titanic:passenger:380,has_an_age_of,22.0
 1524,data:titanic:passenger:381,is_a,https://en.wikipedia.org/wiki/Woman
-1525,data:titanic:passenger:381,has_a_name,Walter H (Irene Colvin) Corbett
+1525,data:titanic:passenger:381,has_a_name,Walter H \(Irene Colvin\) Corbett
 1526,data:titanic:passenger:381,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1527,data:titanic:passenger:381,has_an_age_of,30.0
 1528,data:titanic:passenger:382,is_a,https://en.wikipedia.org/wiki/Woman
-1529,data:titanic:passenger:382,has_a_name,Percy C (Mary Phyllis Elizabeth Miller) Corey
+1529,data:titanic:passenger:382,has_a_name,Percy C \(Mary Phyllis Elizabeth Miller\) Corey
 1530,data:titanic:passenger:382,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1531,data:titanic:passenger:382,has_an_age_of,Unknown
 1532,data:titanic:passenger:383,is_a,https://en.wikipedia.org/wiki/Man
@@ -1548,7 +1548,7 @@
 1546,data:titanic:passenger:386,has_a_marital_status,Unknown
 1547,data:titanic:passenger:386,has_an_age_of,18.0
 1548,data:titanic:passenger:387,is_a,https://en.wikipedia.org/wiki/Woman
-1549,data:titanic:passenger:387,has_a_name,John Morgan (Elizabeth Agnes Mary White)  Davies
+1549,data:titanic:passenger:387,has_a_name,John Morgan \(Elizabeth Agnes Mary White\)  Davies
 1550,data:titanic:passenger:387,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1551,data:titanic:passenger:387,has_an_age_of,48.0
 1552,data:titanic:passenger:388,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1568,7 +1568,7 @@
 1566,data:titanic:passenger:391,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1567,data:titanic:passenger:391,has_an_age_of,29.0
 1568,data:titanic:passenger:392,is_a,https://en.wikipedia.org/wiki/Woman
-1569,data:titanic:passenger:392,has_a_name,Sebastiano (Argenia Genovesi) del Carlo
+1569,data:titanic:passenger:392,has_a_name,Sebastiano \(Argenia Genovesi\) del Carlo
 1570,data:titanic:passenger:392,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1571,data:titanic:passenger:392,has_an_age_of,24.0
 1572,data:titanic:passenger:393,is_a,https://en.wikipedia.org/wiki/Man
@@ -1584,7 +1584,7 @@
 1582,data:titanic:passenger:395,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 1583,data:titanic:passenger:395,has_an_age_of,18.0
 1584,data:titanic:passenger:396,is_a,https://en.wikipedia.org/wiki/Woman
-1585,data:titanic:passenger:396,has_a_name,John T (Ada Julia Bone) Doling
+1585,data:titanic:passenger:396,has_a_name,John T \(Ada Julia Bone\) Doling
 1586,data:titanic:passenger:396,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1587,data:titanic:passenger:396,has_an_age_of,34.0
 1588,data:titanic:passenger:397,is_a,https://en.wikipedia.org/wiki/Man
@@ -1600,7 +1600,7 @@
 1598,data:titanic:passenger:399,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1599,data:titanic:passenger:399,has_an_age_of,42.0
 1600,data:titanic:passenger:400,is_a,https://en.wikipedia.org/wiki/Woman
-1601,data:titanic:passenger:400,has_a_name,James Vivian (Lulu Thorne Christian) Drew
+1601,data:titanic:passenger:400,has_a_name,James Vivian \(Lulu Thorne Christian\) Drew
 1602,data:titanic:passenger:400,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1603,data:titanic:passenger:400,has_an_age_of,34.0
 1604,data:titanic:passenger:401,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1628,7 +1628,7 @@
 1626,data:titanic:passenger:406,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1627,data:titanic:passenger:406,has_an_age_of,40.0
 1628,data:titanic:passenger:407,is_a,https://en.wikipedia.org/wiki/Woman
-1629,data:titanic:passenger:407,has_a_name,Lizzie (Elizabeth Anne Wilkinson) Faunthorpe
+1629,data:titanic:passenger:407,has_a_name,Lizzie \(Elizabeth Anne Wilkinson\) Faunthorpe
 1630,data:titanic:passenger:407,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1631,data:titanic:passenger:407,has_an_age_of,29.0
 1632,data:titanic:passenger:408,is_a,https://en.wikipedia.org/wiki/Man
@@ -1712,7 +1712,7 @@
 1710,data:titanic:passenger:427,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 1711,data:titanic:passenger:427,has_an_age_of,0.6667
 1712,data:titanic:passenger:428,is_a,https://en.wikipedia.org/wiki/Woman
-1713,data:titanic:passenger:428,has_a_name,William (Anna) Hamalainen
+1713,data:titanic:passenger:428,has_a_name,William \(Anna\) Hamalainen
 1714,data:titanic:passenger:428,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1715,data:titanic:passenger:428,has_an_age_of,24.0
 1716,data:titanic:passenger:429,is_a,https://en.wikipedia.org/wiki/Man
@@ -1744,7 +1744,7 @@
 1742,data:titanic:passenger:435,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1743,data:titanic:passenger:435,has_an_age_of,43.0
 1744,data:titanic:passenger:436,is_a,https://en.wikipedia.org/wiki/Woman
-1745,data:titanic:passenger:436,has_a_name,Benjamin (Esther Ada Bloomfield) Hart
+1745,data:titanic:passenger:436,has_a_name,Benjamin \(Esther Ada Bloomfield\) Hart
 1746,data:titanic:passenger:436,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1747,data:titanic:passenger:436,has_an_age_of,45.0
 1748,data:titanic:passenger:437,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1760,11 +1760,11 @@
 1758,data:titanic:passenger:439,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1759,data:titanic:passenger:439,has_an_age_of,49.0
 1760,data:titanic:passenger:440,is_a,https://en.wikipedia.org/wiki/Woman
-1761,data:titanic:passenger:440,has_a_name,Samuel (Jane Laver) Herman
+1761,data:titanic:passenger:440,has_a_name,Samuel \(Jane Laver\) Herman
 1762,data:titanic:passenger:440,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1763,data:titanic:passenger:440,has_an_age_of,48.0
 1764,data:titanic:passenger:441,is_a,https://en.wikipedia.org/wiki/Woman
-1765,data:titanic:passenger:441,has_a_name,(Mary D Kingcome)  Hewlett
+1765,data:titanic:passenger:441,has_a_name,\(Mary D Kingcome\)  Hewlett
 1766,data:titanic:passenger:441,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1767,data:titanic:passenger:441,has_an_age_of,55.0
 1768,data:titanic:passenger:442,is_a,https://en.wikipedia.org/wiki/Man
@@ -1796,7 +1796,7 @@
 1794,data:titanic:passenger:448,has_a_marital_status,Unknown
 1795,data:titanic:passenger:448,has_an_age_of,36.0
 1796,data:titanic:passenger:449,is_a,https://en.wikipedia.org/wiki/Woman
-1797,data:titanic:passenger:449,has_a_name,Elizabeth (Eliza Needs) Hocking
+1797,data:titanic:passenger:449,has_a_name,Elizabeth \(Eliza Needs\) Hocking
 1798,data:titanic:passenger:449,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1799,data:titanic:passenger:449,has_an_age_of,54.0
 1800,data:titanic:passenger:450,is_a,https://en.wikipedia.org/wiki/Man
@@ -1808,7 +1808,7 @@
 1806,data:titanic:passenger:451,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1807,data:titanic:passenger:451,has_an_age_of,44.0
 1808,data:titanic:passenger:452,is_a,https://en.wikipedia.org/wiki/Woman
-1809,data:titanic:passenger:452,has_a_name,Stephen (Annie Margaret Hill) Hold
+1809,data:titanic:passenger:452,has_a_name,Stephen \(Annie Margaret Hill\) Hold
 1810,data:titanic:passenger:452,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1811,data:titanic:passenger:452,has_an_age_of,29.0
 1812,data:titanic:passenger:453,is_a,https://en.wikipedia.org/wiki/Man
@@ -1824,7 +1824,7 @@
 1822,data:titanic:passenger:455,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1823,data:titanic:passenger:455,has_an_age_of,63.0
 1824,data:titanic:passenger:456,is_a,https://en.wikipedia.org/wiki/Woman
-1825,data:titanic:passenger:456,has_a_name,Benjamin (Ellen Truelove Arman) Howard
+1825,data:titanic:passenger:456,has_a_name,Benjamin \(Ellen Truelove Arman\) Howard
 1826,data:titanic:passenger:456,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1827,data:titanic:passenger:456,has_an_age_of,60.0
 1828,data:titanic:passenger:457,is_a,https://en.wikipedia.org/wiki/Man
@@ -1840,7 +1840,7 @@
 1838,data:titanic:passenger:459,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1839,data:titanic:passenger:459,has_an_age_of,42.0
 1840,data:titanic:passenger:460,is_a,https://en.wikipedia.org/wiki/Woman
-1841,data:titanic:passenger:460,has_a_name,Sidney Samuel (Amy Frances Christy) Jacobsohn
+1841,data:titanic:passenger:460,has_a_name,Sidney Samuel \(Amy Frances Christy\) Jacobsohn
 1842,data:titanic:passenger:460,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1843,data:titanic:passenger:460,has_an_age_of,24.0
 1844,data:titanic:passenger:461,is_a,https://en.wikipedia.org/wiki/Man
@@ -1860,7 +1860,7 @@
 1858,data:titanic:passenger:464,has_a_marital_status,Unknown
 1859,data:titanic:passenger:464,has_an_age_of,32.0
 1860,data:titanic:passenger:465,is_a,https://en.wikipedia.org/wiki/Woman
-1861,data:titanic:passenger:465,has_a_name,Amin S (Marie Marthe Thuillard) Jerwan
+1861,data:titanic:passenger:465,has_a_name,Amin S \(Marie Marthe Thuillard\) Jerwan
 1862,data:titanic:passenger:465,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1863,data:titanic:passenger:465,has_an_age_of,23.0
 1864,data:titanic:passenger:466,is_a,https://en.wikipedia.org/wiki/Man
@@ -1868,11 +1868,11 @@
 1866,data:titanic:passenger:466,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1867,data:titanic:passenger:466,has_an_age_of,34.0
 1868,data:titanic:passenger:467,is_a,https://en.wikipedia.org/wiki/Woman
-1869,data:titanic:passenger:467,has_a_name,Sinai (Miriam Sternin) Kantor
+1869,data:titanic:passenger:467,has_a_name,Sinai \(Miriam Sternin\) Kantor
 1870,data:titanic:passenger:467,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1871,data:titanic:passenger:467,has_an_age_of,24.0
 1872,data:titanic:passenger:468,is_a,https://en.wikipedia.org/wiki/Woman
-1873,data:titanic:passenger:468,has_a_name,J Frank (Claire Bennett) Karnes
+1873,data:titanic:passenger:468,has_a_name,J Frank \(Claire Bennett\) Karnes
 1874,data:titanic:passenger:468,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1875,data:titanic:passenger:468,has_an_age_of,22.0
 1876,data:titanic:passenger:469,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1900,7 +1900,7 @@
 1898,data:titanic:passenger:474,has_a_marital_status,Unknown
 1899,data:titanic:passenger:474,has_an_age_of,31.0
 1900,data:titanic:passenger:475,is_a,https://en.wikipedia.org/wiki/Woman
-1901,data:titanic:passenger:475,has_a_name,William (Anna Sylfven) Lahtinen
+1901,data:titanic:passenger:475,has_a_name,William \(Anna Sylfven\) Lahtinen
 1902,data:titanic:passenger:475,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1903,data:titanic:passenger:475,has_an_age_of,26.0
 1904,data:titanic:passenger:476,is_a,https://en.wikipedia.org/wiki/Man
@@ -1924,7 +1924,7 @@
 1922,data:titanic:passenger:480,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1923,data:titanic:passenger:480,has_an_age_of,25.0
 1924,data:titanic:passenger:481,is_a,https://en.wikipedia.org/wiki/Woman
-1925,data:titanic:passenger:481,has_a_name,Joseph (Juliette Marie Louise Lafargue) Laroche
+1925,data:titanic:passenger:481,has_a_name,Joseph \(Juliette Marie Louise Lafargue\) Laroche
 1926,data:titanic:passenger:481,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1927,data:titanic:passenger:481,has_an_age_of,22.0
 1928,data:titanic:passenger:482,is_a,https://en.wikipedia.org/wiki/Woman
@@ -1936,7 +1936,7 @@
 1934,data:titanic:passenger:483,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 1935,data:titanic:passenger:483,has_an_age_of,Unknown
 1936,data:titanic:passenger:484,is_a,https://en.wikipedia.org/wiki/Woman
-1937,data:titanic:passenger:484,has_a_name,(Amelia Milley) Lemore
+1937,data:titanic:passenger:484,has_a_name,\(Amelia Milley\) Lemore
 1938,data:titanic:passenger:484,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1939,data:titanic:passenger:484,has_an_age_of,34.0
 1940,data:titanic:passenger:485,is_a,https://en.wikipedia.org/wiki/Man
@@ -1956,11 +1956,11 @@
 1954,data:titanic:passenger:488,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1955,data:titanic:passenger:488,has_an_age_of,50.0
 1956,data:titanic:passenger:489,is_a,https://en.wikipedia.org/wiki/Woman
-1957,data:titanic:passenger:489,has_a_name,Charles Alexander (Alice Adelaide Slow) Louch
+1957,data:titanic:passenger:489,has_a_name,Charles Alexander \(Alice Adelaide Slow\) Louch
 1958,data:titanic:passenger:489,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1959,data:titanic:passenger:489,has_an_age_of,42.0
 1960,data:titanic:passenger:490,is_a,https://en.wikipedia.org/wiki/Woman
-1961,data:titanic:passenger:490,has_a_name,(Mary) Mack
+1961,data:titanic:passenger:490,has_a_name,\(Mary\) Mack
 1962,data:titanic:passenger:490,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1963,data:titanic:passenger:490,has_an_age_of,57.0
 1964,data:titanic:passenger:491,is_a,https://en.wikipedia.org/wiki/Man
@@ -1976,7 +1976,7 @@
 1974,data:titanic:passenger:493,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1975,data:titanic:passenger:493,has_an_age_of,31.0
 1976,data:titanic:passenger:494,is_a,https://en.wikipedia.org/wiki/Woman
-1977,data:titanic:passenger:494,has_a_name,Albert (Antoinette Magnin) Mallet
+1977,data:titanic:passenger:494,has_a_name,Albert \(Antoinette Magnin\) Mallet
 1978,data:titanic:passenger:494,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 1979,data:titanic:passenger:494,has_an_age_of,24.0
 1980,data:titanic:passenger:495,is_a,https://en.wikipedia.org/wiki/Man
@@ -2008,7 +2008,7 @@
 2006,data:titanic:passenger:501,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2007,data:titanic:passenger:501,has_an_age_of,13.0
 2008,data:titanic:passenger:502,is_a,https://en.wikipedia.org/wiki/Woman
-2009,data:titanic:passenger:502,has_a_name,(Elizabeth Anne Maidment) Mellinger
+2009,data:titanic:passenger:502,has_a_name,\(Elizabeth Anne Maidment\) Mellinger
 2010,data:titanic:passenger:502,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2011,data:titanic:passenger:502,has_an_age_of,41.0
 2012,data:titanic:passenger:503,is_a,https://en.wikipedia.org/wiki/Man
@@ -2036,7 +2036,7 @@
 2034,data:titanic:passenger:508,has_a_marital_status,Unknown
 2035,data:titanic:passenger:508,has_an_age_of,54.0
 2036,data:titanic:passenger:509,is_a,https://en.wikipedia.org/wiki/Man
-2037,data:titanic:passenger:509,has_a_name,"Henry Samuel (""Mr Henry Marshall"") Morley"
+2037,data:titanic:passenger:509,has_a_name,"Henry Samuel \(""Mr Henry Marshall""\) Morley"
 2038,data:titanic:passenger:509,has_a_marital_status,Unknown
 2039,data:titanic:passenger:509,has_an_age_of,39.0
 2040,data:titanic:passenger:510,is_a,https://en.wikipedia.org/wiki/Man
@@ -2052,7 +2052,7 @@
 2050,data:titanic:passenger:512,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2051,data:titanic:passenger:512,has_an_age_of,32.5
 2052,data:titanic:passenger:513,is_a,https://en.wikipedia.org/wiki/Woman
-2053,data:titanic:passenger:513,has_a_name,Nicholas (Adele Achem) Nasser
+2053,data:titanic:passenger:513,has_a_name,Nicholas \(Adele Achem\) Nasser
 2054,data:titanic:passenger:513,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2055,data:titanic:passenger:513,has_an_age_of,14.0
 2056,data:titanic:passenger:514,is_a,https://en.wikipedia.org/wiki/Man
@@ -2064,7 +2064,7 @@
 2062,data:titanic:passenger:515,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2063,data:titanic:passenger:515,has_an_age_of,3.0
 2064,data:titanic:passenger:516,is_a,https://en.wikipedia.org/wiki/Man
-2065,data:titanic:passenger:516,has_a_name,"Michel (""Louis M Hoffman"") Navratil"
+2065,data:titanic:passenger:516,has_a_name,"Michel \(""Louis M Hoffman""\) Navratil"
 2066,data:titanic:passenger:516,has_a_marital_status,Unknown
 2067,data:titanic:passenger:516,has_an_age_of,36.5
 2068,data:titanic:passenger:517,is_a,https://en.wikipedia.org/wiki/Man
@@ -2080,11 +2080,11 @@
 2078,data:titanic:passenger:519,has_a_marital_status,Unknown
 2079,data:titanic:passenger:519,has_an_age_of,28.0
 2080,data:titanic:passenger:520,is_a,https://en.wikipedia.org/wiki/Man
-2081,data:titanic:passenger:520,has_a_name,"Alfred (""Baron von Drachstedt"") Nourney"
+2081,data:titanic:passenger:520,has_a_name,"Alfred \(""Baron von Drachstedt""\) Nourney"
 2082,data:titanic:passenger:520,has_a_marital_status,Unknown
 2083,data:titanic:passenger:520,has_an_age_of,20.0
 2084,data:titanic:passenger:521,is_a,https://en.wikipedia.org/wiki/Woman
-2085,data:titanic:passenger:521,has_a_name,(Elizabeth Ramell) Nye
+2085,data:titanic:passenger:521,has_a_name,\(Elizabeth Ramell\) Nye
 2086,data:titanic:passenger:521,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2087,data:titanic:passenger:521,has_an_age_of,29.0
 2088,data:titanic:passenger:522,is_a,https://en.wikipedia.org/wiki/Man
@@ -2116,7 +2116,7 @@
 2114,data:titanic:passenger:528,has_a_marital_status,Unknown
 2115,data:titanic:passenger:528,has_an_age_of,Unknown
 2116,data:titanic:passenger:529,is_a,https://en.wikipedia.org/wiki/Woman
-2117,data:titanic:passenger:529,has_a_name,(Lutie Davis) Parrish
+2117,data:titanic:passenger:529,has_a_name,\(Lutie Davis\) Parrish
 2118,data:titanic:passenger:529,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2119,data:titanic:passenger:529,has_an_age_of,50.0
 2120,data:titanic:passenger:530,is_a,https://en.wikipedia.org/wiki/Man
@@ -2136,7 +2136,7 @@
 2134,data:titanic:passenger:533,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2135,data:titanic:passenger:533,has_an_age_of,21.0
 2136,data:titanic:passenger:534,is_a,https://en.wikipedia.org/wiki/Woman
-2137,data:titanic:passenger:534,has_a_name,"Kate Florence (""Mrs Kate Louise Phillips Marshall"") Phillips"
+2137,data:titanic:passenger:534,has_a_name,"Kate Florence \(""Mrs Kate Louise Phillips Marshall""\) Phillips"
 2138,data:titanic:passenger:534,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2139,data:titanic:passenger:534,has_an_age_of,19.0
 2140,data:titanic:passenger:535,is_a,https://en.wikipedia.org/wiki/Man
@@ -2144,7 +2144,7 @@
 2142,data:titanic:passenger:535,has_a_marital_status,Unknown
 2143,data:titanic:passenger:535,has_an_age_of,43.0
 2144,data:titanic:passenger:536,is_a,https://en.wikipedia.org/wiki/Woman
-2145,data:titanic:passenger:536,has_a_name,(Rosa) Pinsky
+2145,data:titanic:passenger:536,has_a_name,\(Rosa\) Pinsky
 2146,data:titanic:passenger:536,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2147,data:titanic:passenger:536,has_an_age_of,32.0
 2148,data:titanic:passenger:537,is_a,https://en.wikipedia.org/wiki/Man
@@ -2168,7 +2168,7 @@
 2166,data:titanic:passenger:541,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2167,data:titanic:passenger:541,has_an_age_of,8.0
 2168,data:titanic:passenger:542,is_a,https://en.wikipedia.org/wiki/Woman
-2169,data:titanic:passenger:542,has_a_name,Frederick Charles (Jane Richards) Quick
+2169,data:titanic:passenger:542,has_a_name,Frederick Charles \(Jane Richards\) Quick
 2170,data:titanic:passenger:542,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2171,data:titanic:passenger:542,has_an_age_of,33.0
 2172,data:titanic:passenger:543,is_a,https://en.wikipedia.org/wiki/Man
@@ -2180,7 +2180,7 @@
 2178,data:titanic:passenger:544,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2179,data:titanic:passenger:544,has_an_age_of,34.0
 2180,data:titanic:passenger:545,is_a,https://en.wikipedia.org/wiki/Woman
-2181,data:titanic:passenger:545,has_a_name,Peter Henry (Lillian Jefferys) Renouf
+2181,data:titanic:passenger:545,has_a_name,Peter Henry \(Lillian Jefferys\) Renouf
 2182,data:titanic:passenger:545,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2183,data:titanic:passenger:545,has_an_age_of,30.0
 2184,data:titanic:passenger:546,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2200,7 +2200,7 @@
 2198,data:titanic:passenger:549,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2199,data:titanic:passenger:549,has_an_age_of,3.0
 2200,data:titanic:passenger:550,is_a,https://en.wikipedia.org/wiki/Woman
-2201,data:titanic:passenger:550,has_a_name,Sidney (Emily Hocking) Richards
+2201,data:titanic:passenger:550,has_a_name,Sidney \(Emily Hocking\) Richards
 2202,data:titanic:passenger:550,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2203,data:titanic:passenger:550,has_an_age_of,24.0
 2204,data:titanic:passenger:551,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2228,7 +2228,7 @@
 2226,data:titanic:passenger:556,has_a_marital_status,Unknown
 2227,data:titanic:passenger:556,has_an_age_of,27.0
 2228,data:titanic:passenger:557,is_a,https://en.wikipedia.org/wiki/Woman
-2229,data:titanic:passenger:557,has_a_name,William (Imanita Parrish Hall) Shelley
+2229,data:titanic:passenger:557,has_a_name,William \(Imanita Parrish Hall\) Shelley
 2230,data:titanic:passenger:557,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2231,data:titanic:passenger:557,has_an_age_of,25.0
 2232,data:titanic:passenger:558,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2288,7 +2288,7 @@
 2286,data:titanic:passenger:571,has_a_marital_status,Unknown
 2287,data:titanic:passenger:571,has_an_age_of,23.0
 2288,data:titanic:passenger:572,is_a,https://en.wikipedia.org/wiki/Woman
-2289,data:titanic:passenger:572,has_a_name,William H (Jessie L) Trout
+2289,data:titanic:passenger:572,has_a_name,William H \(Jessie L\) Trout
 2290,data:titanic:passenger:572,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2291,data:titanic:passenger:572,has_an_age_of,28.0
 2292,data:titanic:passenger:573,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2300,7 +2300,7 @@
 2298,data:titanic:passenger:574,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2299,data:titanic:passenger:574,has_an_age_of,29.0
 2300,data:titanic:passenger:575,is_a,https://en.wikipedia.org/wiki/Woman
-2301,data:titanic:passenger:575,has_a_name,William John Robert (Dorothy Ann Wonnacott) Turpin
+2301,data:titanic:passenger:575,has_a_name,William John Robert \(Dorothy Ann Wonnacott\) Turpin
 2302,data:titanic:passenger:575,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2303,data:titanic:passenger:575,has_an_age_of,27.0
 2304,data:titanic:passenger:576,is_a,https://en.wikipedia.org/wiki/Man
@@ -2320,7 +2320,7 @@
 2318,data:titanic:passenger:579,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2319,data:titanic:passenger:579,has_an_age_of,23.0
 2320,data:titanic:passenger:580,is_a,https://en.wikipedia.org/wiki/Woman
-2321,data:titanic:passenger:580,has_a_name,John James (Florence Louise Long) Ware
+2321,data:titanic:passenger:580,has_a_name,John James \(Florence Louise Long\) Ware
 2322,data:titanic:passenger:580,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2323,data:titanic:passenger:580,has_an_age_of,31.0
 2324,data:titanic:passenger:581,is_a,https://en.wikipedia.org/wiki/Man
@@ -2332,7 +2332,7 @@
 2330,data:titanic:passenger:582,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2331,data:titanic:passenger:582,has_an_age_of,12.0
 2332,data:titanic:passenger:583,is_a,https://en.wikipedia.org/wiki/Woman
-2333,data:titanic:passenger:583,has_a_name,"James (Elizabeth ""Bessie"" Inglis Milne) Watt"
+2333,data:titanic:passenger:583,has_a_name,"James \(Elizabeth ""Bessie"" Inglis Milne\) Watt"
 2334,data:titanic:passenger:583,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2335,data:titanic:passenger:583,has_an_age_of,40.0
 2336,data:titanic:passenger:584,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2344,7 +2344,7 @@
 2342,data:titanic:passenger:585,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2343,data:titanic:passenger:585,has_an_age_of,27.0
 2344,data:titanic:passenger:586,is_a,https://en.wikipedia.org/wiki/Woman
-2345,data:titanic:passenger:586,has_a_name,Leopold (Mathilde Francoise Pede) Weisz
+2345,data:titanic:passenger:586,has_a_name,Leopold \(Mathilde Francoise Pede\) Weisz
 2346,data:titanic:passenger:586,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2347,data:titanic:passenger:586,has_an_age_of,29.0
 2348,data:titanic:passenger:587,is_a,https://en.wikipedia.org/wiki/Man
@@ -2356,7 +2356,7 @@
 2354,data:titanic:passenger:588,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2355,data:titanic:passenger:588,has_an_age_of,4.0
 2356,data:titanic:passenger:589,is_a,https://en.wikipedia.org/wiki/Woman
-2357,data:titanic:passenger:589,has_a_name,"Arthur Henry (""Addie"" Dart Trevaskis) Wells"
+2357,data:titanic:passenger:589,has_a_name,"Arthur Henry \(""Addie"" Dart Trevaskis\) Wells"
 2358,data:titanic:passenger:589,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2359,data:titanic:passenger:589,has_an_age_of,29.0
 2360,data:titanic:passenger:590,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2372,7 +2372,7 @@
 2370,data:titanic:passenger:592,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2371,data:titanic:passenger:592,has_an_age_of,36.0
 2372,data:titanic:passenger:593,is_a,https://en.wikipedia.org/wiki/Woman
-2373,data:titanic:passenger:593,has_a_name,Edwy Arthur (Ada Mary Worth) West
+2373,data:titanic:passenger:593,has_a_name,Edwy Arthur \(Ada Mary Worth\) West
 2374,data:titanic:passenger:593,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2375,data:titanic:passenger:593,has_an_age_of,33.0
 2376,data:titanic:passenger:594,is_a,https://en.wikipedia.org/wiki/Man
@@ -2396,7 +2396,7 @@
 2394,data:titanic:passenger:598,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2395,data:titanic:passenger:598,has_an_age_of,26.0
 2396,data:titanic:passenger:599,is_a,https://en.wikipedia.org/wiki/Woman
-2397,data:titanic:passenger:599,has_a_name,"Henriette (""Mrs Harbeck"") Yrois"
+2397,data:titanic:passenger:599,has_a_name,"Henriette \(""Mrs Harbeck""\) Yrois"
 2398,data:titanic:passenger:599,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2399,data:titanic:passenger:599,has_an_age_of,24.0
 2400,data:titanic:passenger:600,is_a,https://en.wikipedia.org/wiki/Man
@@ -2412,7 +2412,7 @@
 2410,data:titanic:passenger:602,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2411,data:titanic:passenger:602,has_an_age_of,16.0
 2412,data:titanic:passenger:603,is_a,https://en.wikipedia.org/wiki/Woman
-2413,data:titanic:passenger:603,has_a_name,Stanton (Rosa Hunt) Abbott
+2413,data:titanic:passenger:603,has_a_name,Stanton \(Rosa Hunt\) Abbott
 2414,data:titanic:passenger:603,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2415,data:titanic:passenger:603,has_an_age_of,35.0
 2416,data:titanic:passenger:604,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2428,7 +2428,7 @@
 2426,data:titanic:passenger:606,has_a_marital_status,Unknown
 2427,data:titanic:passenger:606,has_an_age_of,20.0
 2428,data:titanic:passenger:607,is_a,https://en.wikipedia.org/wiki/Woman
-2429,data:titanic:passenger:607,has_a_name,Joseph (Sophie Halaut Easu) Abrahim
+2429,data:titanic:passenger:607,has_a_name,Joseph \(Sophie Halaut Easu\) Abrahim
 2430,data:titanic:passenger:607,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2431,data:titanic:passenger:607,has_an_age_of,18.0
 2432,data:titanic:passenger:608,is_a,https://en.wikipedia.org/wiki/Man
@@ -2440,7 +2440,7 @@
 2438,data:titanic:passenger:609,has_a_marital_status,Unknown
 2439,data:titanic:passenger:609,has_an_age_of,26.0
 2440,data:titanic:passenger:610,is_a,https://en.wikipedia.org/wiki/Woman
-2441,data:titanic:passenger:610,has_a_name,Johan (Johanna Persdotter Larsson) Ahlin
+2441,data:titanic:passenger:610,has_a_name,Johan \(Johanna Persdotter Larsson\) Ahlin
 2442,data:titanic:passenger:610,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2443,data:titanic:passenger:610,has_an_age_of,40.0
 2444,data:titanic:passenger:611,is_a,https://en.wikipedia.org/wiki/Man
@@ -2448,7 +2448,7 @@
 2446,data:titanic:passenger:611,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2447,data:titanic:passenger:611,has_an_age_of,0.8333
 2448,data:titanic:passenger:612,is_a,https://en.wikipedia.org/wiki/Woman
-2449,data:titanic:passenger:612,has_a_name,Sam (Leah Rosen) Aks
+2449,data:titanic:passenger:612,has_a_name,Sam \(Leah Rosen\) Aks
 2450,data:titanic:passenger:612,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2451,data:titanic:passenger:612,has_an_age_of,18.0
 2452,data:titanic:passenger:613,is_a,https://en.wikipedia.org/wiki/Man
@@ -2520,7 +2520,7 @@
 2518,data:titanic:passenger:629,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2519,data:titanic:passenger:629,has_an_age_of,39.0
 2520,data:titanic:passenger:630,is_a,https://en.wikipedia.org/wiki/Man
-2521,data:titanic:passenger:630,has_a_name,"August Edvard (""Wennerstrom"") Andersson"
+2521,data:titanic:passenger:630,has_a_name,"August Edvard \(""Wennerstrom""\) Andersson"
 2522,data:titanic:passenger:630,has_a_marital_status,Unknown
 2523,data:titanic:passenger:630,has_an_age_of,27.0
 2524,data:titanic:passenger:631,is_a,https://en.wikipedia.org/wiki/Man
@@ -2528,7 +2528,7 @@
 2526,data:titanic:passenger:631,has_a_marital_status,Unknown
 2527,data:titanic:passenger:631,has_an_age_of,26.0
 2528,data:titanic:passenger:632,is_a,https://en.wikipedia.org/wiki/Woman
-2529,data:titanic:passenger:632,has_a_name,Anders Johan (Alfrida Konstantia Brogren) Andersson
+2529,data:titanic:passenger:632,has_a_name,Anders Johan \(Alfrida Konstantia Brogren\) Andersson
 2530,data:titanic:passenger:632,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2531,data:titanic:passenger:632,has_an_age_of,39.0
 2532,data:titanic:passenger:633,is_a,https://en.wikipedia.org/wiki/Man
@@ -2544,7 +2544,7 @@
 2542,data:titanic:passenger:635,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2543,data:titanic:passenger:635,has_an_age_of,25.0
 2544,data:titanic:passenger:636,is_a,https://en.wikipedia.org/wiki/Woman
-2545,data:titanic:passenger:636,has_a_name,Josef (Josefine Franchi) Arnold-Franchi
+2545,data:titanic:passenger:636,has_a_name,Josef \(Josefine Franchi\) Arnold-Franchi
 2546,data:titanic:passenger:636,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2547,data:titanic:passenger:636,has_an_age_of,18.0
 2548,data:titanic:passenger:637,is_a,https://en.wikipedia.org/wiki/Man
@@ -2584,11 +2584,11 @@
 2582,data:titanic:passenger:645,has_a_marital_status,Unknown
 2583,data:titanic:passenger:645,has_an_age_of,23.0
 2584,data:titanic:passenger:646,is_a,https://en.wikipedia.org/wiki/Woman
-2585,data:titanic:passenger:646,has_a_name,Carl Oscar (Selma Augusta Emilia Johansson) Asplund
+2585,data:titanic:passenger:646,has_a_name,Carl Oscar \(Selma Augusta Emilia Johansson\) Asplund
 2586,data:titanic:passenger:646,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2587,data:titanic:passenger:646,has_an_age_of,38.0
 2588,data:titanic:passenger:647,is_a,https://en.wikipedia.org/wiki/Woman
-2589,data:titanic:passenger:647,has_a_name,"Mariana (""Miriam"") Assaf Khalil"
+2589,data:titanic:passenger:647,has_a_name,"Mariana \(""Miriam""\) Assaf Khalil"
 2590,data:titanic:passenger:647,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2591,data:titanic:passenger:647,has_an_age_of,45.0
 2592,data:titanic:passenger:648,is_a,https://en.wikipedia.org/wiki/Man
@@ -2624,7 +2624,7 @@
 2622,data:titanic:passenger:655,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2623,data:titanic:passenger:655,has_an_age_of,32.0
 2624,data:titanic:passenger:656,is_a,https://en.wikipedia.org/wiki/Woman
-2625,data:titanic:passenger:656,has_a_name,Karl Alfred (Maria Mathilda Gustafsson) Backstrom
+2625,data:titanic:passenger:656,has_a_name,Karl Alfred \(Maria Mathilda Gustafsson\) Backstrom
 2626,data:titanic:passenger:656,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2627,data:titanic:passenger:656,has_an_age_of,33.0
 2628,data:titanic:passenger:657,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2640,7 +2640,7 @@
 2638,data:titanic:passenger:659,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2639,data:titanic:passenger:659,has_an_age_of,5.0
 2640,data:titanic:passenger:660,is_a,https://en.wikipedia.org/wiki/Woman
-2641,data:titanic:passenger:660,has_a_name,Solomon (Latifa Qurban) Baclini
+2641,data:titanic:passenger:660,has_a_name,Solomon \(Latifa Qurban\) Baclini
 2642,data:titanic:passenger:660,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2643,data:titanic:passenger:660,has_an_age_of,24.0
 2644,data:titanic:passenger:661,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2664,7 +2664,7 @@
 2662,data:titanic:passenger:665,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2663,data:titanic:passenger:665,has_an_age_of,18.0
 2664,data:titanic:passenger:666,is_a,https://en.wikipedia.org/wiki/Woman
-2665,data:titanic:passenger:666,has_a_name,(Catherine David) Barbara
+2665,data:titanic:passenger:666,has_a_name,\(Catherine David\) Barbara
 2666,data:titanic:passenger:666,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2667,data:titanic:passenger:666,has_an_age_of,45.0
 2668,data:titanic:passenger:667,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2724,7 +2724,7 @@
 2722,data:titanic:passenger:680,has_a_marital_status,Unknown
 2723,data:titanic:passenger:680,has_an_age_of,Unknown
 2724,data:titanic:passenger:681,is_a,https://en.wikipedia.org/wiki/Woman
-2725,data:titanic:passenger:681,has_a_name,Joseph (Sultana) Boulos
+2725,data:titanic:passenger:681,has_a_name,Joseph \(Sultana\) Boulos
 2726,data:titanic:passenger:681,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2727,data:titanic:passenger:681,has_an_age_of,Unknown
 2728,data:titanic:passenger:682,is_a,https://en.wikipedia.org/wiki/Woman
@@ -2736,7 +2736,7 @@
 2734,data:titanic:passenger:683,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2735,data:titanic:passenger:683,has_an_age_of,40.0
 2736,data:titanic:passenger:684,is_a,https://en.wikipedia.org/wiki/Woman
-2737,data:titanic:passenger:684,has_a_name,John (Catherine) Bourke
+2737,data:titanic:passenger:684,has_a_name,John \(Catherine\) Bourke
 2738,data:titanic:passenger:684,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2739,data:titanic:passenger:684,has_an_age_of,32.0
 2740,data:titanic:passenger:685,is_a,https://en.wikipedia.org/wiki/Man
@@ -2824,7 +2824,7 @@
 2822,data:titanic:passenger:705,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2823,data:titanic:passenger:705,has_an_age_of,Unknown
 2824,data:titanic:passenger:706,is_a,https://en.wikipedia.org/wiki/Woman
-2825,data:titanic:passenger:706,has_a_name,Joseph (Maria Elias) Caram
+2825,data:titanic:passenger:706,has_a_name,Joseph \(Maria Elias\) Caram
 2826,data:titanic:passenger:706,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2827,data:titanic:passenger:706,has_an_age_of,Unknown
 2828,data:titanic:passenger:707,is_a,https://en.wikipedia.org/wiki/Man
@@ -2940,7 +2940,7 @@
 2938,data:titanic:passenger:734,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 2939,data:titanic:passenger:734,has_an_age_of,3.0
 2940,data:titanic:passenger:735,is_a,https://en.wikipedia.org/wiki/Woman
-2941,data:titanic:passenger:735,has_a_name,"William (Winnie ""Minnie"" Treanor) Coutts"
+2941,data:titanic:passenger:735,has_a_name,"William \(Winnie ""Minnie"" Treanor\) Coutts"
 2942,data:titanic:passenger:735,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2943,data:titanic:passenger:735,has_an_age_of,36.0
 2944,data:titanic:passenger:736,is_a,https://en.wikipedia.org/wiki/Man
@@ -2996,7 +2996,7 @@
 2994,data:titanic:passenger:748,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2995,data:titanic:passenger:748,has_an_age_of,34.0
 2996,data:titanic:passenger:749,is_a,https://en.wikipedia.org/wiki/Woman
-2997,data:titanic:passenger:749,has_a_name,Ernst Gilbert (Anna Sigrid Maria Brogren) Danbom
+2997,data:titanic:passenger:749,has_a_name,Ernst Gilbert \(Anna Sigrid Maria Brogren\) Danbom
 2998,data:titanic:passenger:749,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 2999,data:titanic:passenger:749,has_an_age_of,28.0
 3000,data:titanic:passenger:750,is_a,https://en.wikipedia.org/wiki/Man
@@ -3028,7 +3028,7 @@
 3026,data:titanic:passenger:756,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3027,data:titanic:passenger:756,has_an_age_of,Unknown
 3028,data:titanic:passenger:757,is_a,https://en.wikipedia.org/wiki/Woman
-3029,data:titanic:passenger:757,has_a_name,Thomas Henry (Mary E Finck) Davison
+3029,data:titanic:passenger:757,has_a_name,Thomas Henry \(Mary E Finck\) Davison
 3030,data:titanic:passenger:757,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3031,data:titanic:passenger:757,has_an_age_of,Unknown
 3032,data:titanic:passenger:758,is_a,https://en.wikipedia.org/wiki/Man
@@ -3036,7 +3036,7 @@
 3034,data:titanic:passenger:758,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3035,data:titanic:passenger:758,has_an_age_of,36.5
 3036,data:titanic:passenger:759,is_a,https://en.wikipedia.org/wiki/Woman
-3037,data:titanic:passenger:759,has_a_name,Guillaume Joseph (Emma) de Messemaeker
+3037,data:titanic:passenger:759,has_a_name,Guillaume Joseph \(Emma\) de Messemaeker
 3038,data:titanic:passenger:759,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3039,data:titanic:passenger:759,has_an_age_of,36.0
 3040,data:titanic:passenger:760,is_a,https://en.wikipedia.org/wiki/Man
@@ -3060,7 +3060,7 @@
 3058,data:titanic:passenger:764,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3059,data:titanic:passenger:764,has_an_age_of,26.0
 3060,data:titanic:passenger:765,is_a,https://en.wikipedia.org/wiki/Woman
-3061,data:titanic:passenger:765,has_a_name,Bertram (Eva Georgetta Light) Dean
+3061,data:titanic:passenger:765,has_a_name,Bertram \(Eva Georgetta Light\) Dean
 3062,data:titanic:passenger:765,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3063,data:titanic:passenger:765,has_an_age_of,33.0
 3064,data:titanic:passenger:766,is_a,https://en.wikipedia.org/wiki/Man
@@ -3140,7 +3140,7 @@
 3138,data:titanic:passenger:784,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3139,data:titanic:passenger:784,has_an_age_of,23.0
 3140,data:titanic:passenger:785,is_a,https://en.wikipedia.org/wiki/Woman
-3141,data:titanic:passenger:785,has_a_name,Adolf Fredrik (Anna Elisabeth Judith Andersson) Dyker
+3141,data:titanic:passenger:785,has_a_name,Adolf Fredrik \(Anna Elisabeth Judith Andersson\) Dyker
 3142,data:titanic:passenger:785,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3143,data:titanic:passenger:785,has_an_age_of,22.0
 3144,data:titanic:passenger:786,is_a,https://en.wikipedia.org/wiki/Man
@@ -3244,7 +3244,7 @@
 3242,data:titanic:passenger:810,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3243,data:titanic:passenger:810,has_an_age_of,16.0
 3244,data:titanic:passenger:811,is_a,https://en.wikipedia.org/wiki/Woman
-3245,data:titanic:passenger:811,has_a_name,Edward (Margaret Ann Watson) Ford
+3245,data:titanic:passenger:811,has_a_name,Edward \(Margaret Ann Watson\) Ford
 3246,data:titanic:passenger:811,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3247,data:titanic:passenger:811,has_an_age_of,48.0
 3248,data:titanic:passenger:812,is_a,https://en.wikipedia.org/wiki/Man
@@ -3252,7 +3252,7 @@
 3250,data:titanic:passenger:812,has_a_marital_status,Unknown
 3251,data:titanic:passenger:812,has_an_age_of,Unknown
 3252,data:titanic:passenger:813,is_a,https://en.wikipedia.org/wiki/Man
-3253,data:titanic:passenger:813,has_a_name,Charles (Charles Fardon) Franklin
+3253,data:titanic:passenger:813,has_a_name,Charles \(Charles Fardon\) Franklin
 3254,data:titanic:passenger:813,has_a_marital_status,Unknown
 3255,data:titanic:passenger:813,has_an_age_of,Unknown
 3256,data:titanic:passenger:814,is_a,https://en.wikipedia.org/wiki/Man
@@ -3292,7 +3292,7 @@
 3290,data:titanic:passenger:822,has_a_marital_status,Unknown
 3291,data:titanic:passenger:822,has_an_age_of,41.0
 3292,data:titanic:passenger:823,is_a,https://en.wikipedia.org/wiki/Woman
-3293,data:titanic:passenger:823,has_a_name,Frank John (Emily Alice Brown) Goldsmith
+3293,data:titanic:passenger:823,has_a_name,Frank John \(Emily Alice Brown\) Goldsmith
 3294,data:titanic:passenger:823,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3295,data:titanic:passenger:823,has_an_age_of,31.0
 3296,data:titanic:passenger:824,is_a,https://en.wikipedia.org/wiki/Man
@@ -3328,7 +3328,7 @@
 3326,data:titanic:passenger:831,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3327,data:titanic:passenger:831,has_an_age_of,40.0
 3328,data:titanic:passenger:832,is_a,https://en.wikipedia.org/wiki/Woman
-3329,data:titanic:passenger:832,has_a_name,Frederick (Augusta Tyler) Goodwin
+3329,data:titanic:passenger:832,has_a_name,Frederick \(Augusta Tyler\) Goodwin
 3330,data:titanic:passenger:832,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3331,data:titanic:passenger:832,has_an_age_of,43.0
 3332,data:titanic:passenger:833,is_a,https://en.wikipedia.org/wiki/Man
@@ -3380,7 +3380,7 @@
 3378,data:titanic:passenger:844,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3379,data:titanic:passenger:844,has_an_age_of,28.0
 3380,data:titanic:passenger:845,is_a,https://en.wikipedia.org/wiki/Woman
-3381,data:titanic:passenger:845,has_a_name,Pekka Pietari (Elin Matilda Dolck) Hakkarainen
+3381,data:titanic:passenger:845,has_a_name,Pekka Pietari \(Elin Matilda Dolck\) Hakkarainen
 3382,data:titanic:passenger:845,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3383,data:titanic:passenger:845,has_an_age_of,24.0
 3384,data:titanic:passenger:846,is_a,https://en.wikipedia.org/wiki/Man
@@ -3404,7 +3404,7 @@
 3402,data:titanic:passenger:850,has_a_marital_status,Unknown
 3403,data:titanic:passenger:850,has_an_age_of,21.0
 3404,data:titanic:passenger:851,is_a,https://en.wikipedia.org/wiki/Woman
-3405,data:titanic:passenger:851,has_a_name,Claus Peter (Jennie L Howard) Hansen
+3405,data:titanic:passenger:851,has_a_name,Claus Peter \(Jennie L Howard\) Hansen
 3406,data:titanic:passenger:851,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3407,data:titanic:passenger:851,has_an_age_of,45.0
 3408,data:titanic:passenger:852,is_a,https://en.wikipedia.org/wiki/Woman
@@ -3412,7 +3412,7 @@
 3410,data:titanic:passenger:852,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 3411,data:titanic:passenger:852,has_an_age_of,Unknown
 3412,data:titanic:passenger:853,is_a,https://en.wikipedia.org/wiki/Man
-3413,data:titanic:passenger:853,has_a_name,Abraham (David Lishin) Harmer
+3413,data:titanic:passenger:853,has_a_name,Abraham \(David Lishin\) Harmer
 3414,data:titanic:passenger:853,has_a_marital_status,Unknown
 3415,data:titanic:passenger:853,has_an_age_of,25.0
 3416,data:titanic:passenger:854,is_a,https://en.wikipedia.org/wiki/Man
@@ -3468,7 +3468,7 @@
 3466,data:titanic:passenger:866,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 3467,data:titanic:passenger:866,has_an_age_of,2.0
 3468,data:titanic:passenger:867,is_a,https://en.wikipedia.org/wiki/Woman
-3469,data:titanic:passenger:867,has_a_name,Alexander (Helga E Lindqvist) Hirvonen
+3469,data:titanic:passenger:867,has_a_name,Alexander \(Helga E Lindqvist\) Hirvonen
 3470,data:titanic:passenger:867,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3471,data:titanic:passenger:867,has_an_age_of,22.0
 3472,data:titanic:passenger:868,is_a,https://en.wikipedia.org/wiki/Man
@@ -3596,7 +3596,7 @@
 3594,data:titanic:passenger:898,has_a_marital_status,Unknown
 3595,data:titanic:passenger:898,has_an_age_of,19.0
 3596,data:titanic:passenger:899,is_a,https://en.wikipedia.org/wiki/Woman
-3597,data:titanic:passenger:899,has_a_name,Oscar W (Elisabeth Vilhelmina Berg) Johnson
+3597,data:titanic:passenger:899,has_a_name,Oscar W \(Elisabeth Vilhelmina Berg\) Johnson
 3598,data:titanic:passenger:899,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3599,data:titanic:passenger:899,has_an_age_of,27.0
 3600,data:titanic:passenger:900,is_a,https://en.wikipedia.org/wiki/Man
@@ -3612,7 +3612,7 @@
 3610,data:titanic:passenger:902,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3611,data:titanic:passenger:902,has_an_age_of,Unknown
 3612,data:titanic:passenger:903,is_a,https://en.wikipedia.org/wiki/Woman
-3613,data:titanic:passenger:903,has_a_name,"Andrew G (Elizabeth ""Lily"" Watson) Johnston"
+3613,data:titanic:passenger:903,has_a_name,"Andrew G \(Elizabeth ""Lily"" Watson\) Johnston"
 3614,data:titanic:passenger:903,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3615,data:titanic:passenger:903,has_an_age_of,Unknown
 3616,data:titanic:passenger:904,is_a,https://en.wikipedia.org/wiki/Man
@@ -3676,7 +3676,7 @@
 3674,data:titanic:passenger:918,has_a_marital_status,Unknown
 3675,data:titanic:passenger:918,has_an_age_of,Unknown
 3676,data:titanic:passenger:919,is_a,https://en.wikipedia.org/wiki/Man
-3677,data:titanic:passenger:919,has_a_name,"Vassilios (""Catavelas Vassilios"") Katavelas"
+3677,data:titanic:passenger:919,has_a_name,"Vassilios \(""Catavelas Vassilios""\) Katavelas"
 3678,data:titanic:passenger:919,has_a_marital_status,Unknown
 3679,data:titanic:passenger:919,has_an_age_of,18.5
 3680,data:titanic:passenger:920,is_a,https://en.wikipedia.org/wiki/Man
@@ -3712,7 +3712,7 @@
 3710,data:titanic:passenger:927,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3711,data:titanic:passenger:927,has_an_age_of,Unknown
 3712,data:titanic:passenger:928,is_a,https://en.wikipedia.org/wiki/Woman
-3713,data:titanic:passenger:928,has_a_name,"Betros (Zahie ""Maria"" Elias) Khalil"
+3713,data:titanic:passenger:928,has_a_name,"Betros \(Zahie ""Maria"" Elias\) Khalil"
 3714,data:titanic:passenger:928,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3715,data:titanic:passenger:928,has_an_age_of,Unknown
 3716,data:titanic:passenger:929,is_a,https://en.wikipedia.org/wiki/Man
@@ -3744,7 +3744,7 @@
 3742,data:titanic:passenger:935,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3743,data:titanic:passenger:935,has_an_age_of,29.0
 3744,data:titanic:passenger:936,is_a,https://en.wikipedia.org/wiki/Woman
-3745,data:titanic:passenger:936,has_a_name,Anton (Luise Heilmann) Kink-Heilmann
+3745,data:titanic:passenger:936,has_a_name,Anton \(Luise Heilmann\) Kink-Heilmann
 3746,data:titanic:passenger:936,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3747,data:titanic:passenger:936,has_an_age_of,26.0
 3748,data:titanic:passenger:937,is_a,https://en.wikipedia.org/wiki/Woman
@@ -3756,7 +3756,7 @@
 3754,data:titanic:passenger:938,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3755,data:titanic:passenger:938,has_an_age_of,18.0
 3756,data:titanic:passenger:939,is_a,https://en.wikipedia.org/wiki/Woman
-3757,data:titanic:passenger:939,has_a_name,(Hulda Kristina Eugenia Lofqvist) Klasen
+3757,data:titanic:passenger:939,has_a_name,\(Hulda Kristina Eugenia Lofqvist\) Klasen
 3758,data:titanic:passenger:939,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3759,data:titanic:passenger:939,has_an_age_of,36.0
 3760,data:titanic:passenger:940,is_a,https://en.wikipedia.org/wiki/Man
@@ -3812,7 +3812,7 @@
 3810,data:titanic:passenger:952,has_a_marital_status,Unknown
 3811,data:titanic:passenger:952,has_an_age_of,22.0
 3812,data:titanic:passenger:953,is_a,https://en.wikipedia.org/wiki/Man
-3813,data:titanic:passenger:953,has_a_name,"Fahim (""Philip Zenni"") Leeni"
+3813,data:titanic:passenger:953,has_a_name,"Fahim \(""Philip Zenni""\) Leeni"
 3814,data:titanic:passenger:953,has_a_marital_status,Unknown
 3815,data:titanic:passenger:953,has_an_age_of,22.0
 3816,data:titanic:passenger:954,is_a,https://en.wikipedia.org/wiki/Man
@@ -3832,7 +3832,7 @@
 3830,data:titanic:passenger:957,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 3831,data:titanic:passenger:957,has_an_age_of,Unknown
 3832,data:titanic:passenger:958,is_a,https://en.wikipedia.org/wiki/Woman
-3833,data:titanic:passenger:958,has_a_name,Frank (Frances) Lefebre
+3833,data:titanic:passenger:958,has_a_name,Frank \(Frances\) Lefebre
 3834,data:titanic:passenger:958,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3835,data:titanic:passenger:958,has_an_age_of,Unknown
 3836,data:titanic:passenger:959,is_a,https://en.wikipedia.org/wiki/Man
@@ -3876,7 +3876,7 @@
 3874,data:titanic:passenger:968,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3875,data:titanic:passenger:968,has_an_age_of,36.0
 3876,data:titanic:passenger:969,is_a,https://en.wikipedia.org/wiki/Woman
-3877,data:titanic:passenger:969,has_a_name,Edvard Bengtsson (Elin Gerda Persson) Lindell
+3877,data:titanic:passenger:969,has_a_name,Edvard Bengtsson \(Elin Gerda Persson\) Lindell
 3878,data:titanic:passenger:969,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3879,data:titanic:passenger:969,has_an_age_of,30.0
 3880,data:titanic:passenger:970,is_a,https://en.wikipedia.org/wiki/Man
@@ -3900,7 +3900,7 @@
 3898,data:titanic:passenger:974,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3899,data:titanic:passenger:974,has_an_age_of,30.0
 3900,data:titanic:passenger:975,is_a,https://en.wikipedia.org/wiki/Woman
-3901,data:titanic:passenger:975,has_a_name,William Arthur (Cordelia K Stanlick) Lobb
+3901,data:titanic:passenger:975,has_a_name,William Arthur \(Cordelia K Stanlick\) Lobb
 3902,data:titanic:passenger:975,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 3903,data:titanic:passenger:975,has_an_age_of,26.0
 3904,data:titanic:passenger:976,is_a,https://en.wikipedia.org/wiki/Man
@@ -3908,7 +3908,7 @@
 3906,data:titanic:passenger:976,has_a_marital_status,Unknown
 3907,data:titanic:passenger:976,has_an_age_of,Unknown
 3908,data:titanic:passenger:977,is_a,https://en.wikipedia.org/wiki/Man
-3909,data:titanic:passenger:977,has_a_name,"John Hall (""Henry"") Lovell"
+3909,data:titanic:passenger:977,has_a_name,"John Hall \(""Henry""\) Lovell"
 3910,data:titanic:passenger:977,has_a_marital_status,Unknown
 3911,data:titanic:passenger:977,has_an_age_of,20.5
 3912,data:titanic:passenger:978,is_a,https://en.wikipedia.org/wiki/Man
@@ -4044,7 +4044,7 @@
 4042,data:titanic:passenger:1010,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4043,data:titanic:passenger:1010,has_an_age_of,24.0
 4044,data:titanic:passenger:1011,is_a,https://en.wikipedia.org/wiki/Woman
-4045,data:titanic:passenger:1011,has_a_name,Neal (Eileen O'Leary) McNamee
+4045,data:titanic:passenger:1011,has_a_name,Neal \(Eileen O'Leary\) McNamee
 4046,data:titanic:passenger:1011,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4047,data:titanic:passenger:1011,has_an_age_of,19.0
 4048,data:titanic:passenger:1012,is_a,https://en.wikipedia.org/wiki/Woman
@@ -4052,11 +4052,11 @@
 4050,data:titanic:passenger:1012,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4051,data:titanic:passenger:1012,has_an_age_of,Unknown
 4052,data:titanic:passenger:1013,is_a,https://en.wikipedia.org/wiki/Woman
-4053,data:titanic:passenger:1013,has_a_name,(Marion Ogden) Meanwell
+4053,data:titanic:passenger:1013,has_a_name,\(Marion Ogden\) Meanwell
 4054,data:titanic:passenger:1013,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4055,data:titanic:passenger:1013,has_an_age_of,Unknown
 4056,data:titanic:passenger:1014,is_a,https://en.wikipedia.org/wiki/Woman
-4057,data:titanic:passenger:1014,has_a_name,Thomas (Annie Louise Rowley) Meek
+4057,data:titanic:passenger:1014,has_a_name,Thomas \(Annie Louise Rowley\) Meek
 4058,data:titanic:passenger:1014,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4059,data:titanic:passenger:1014,has_an_age_of,Unknown
 4060,data:titanic:passenger:1015,is_a,https://en.wikipedia.org/wiki/Man
@@ -4104,7 +4104,7 @@
 4102,data:titanic:passenger:1025,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4103,data:titanic:passenger:1025,has_an_age_of,6.0
 4104,data:titanic:passenger:1026,is_a,https://en.wikipedia.org/wiki/Woman
-4105,data:titanic:passenger:1026,has_a_name,(Beila) Moor
+4105,data:titanic:passenger:1026,has_a_name,\(Beila\) Moor
 4106,data:titanic:passenger:1026,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4107,data:titanic:passenger:1026,has_an_age_of,27.0
 4108,data:titanic:passenger:1027,is_a,https://en.wikipedia.org/wiki/Man
@@ -4140,15 +4140,15 @@
 4138,data:titanic:passenger:1034,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4139,data:titanic:passenger:1034,has_an_age_of,Unknown
 4140,data:titanic:passenger:1035,is_a,https://en.wikipedia.org/wiki/Man
-4141,data:titanic:passenger:1035,has_a_name,"Halim Gonios (""William George"") Moubarek"
+4141,data:titanic:passenger:1035,has_a_name,"Halim Gonios \(""William George""\) Moubarek"
 4142,data:titanic:passenger:1035,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4143,data:titanic:passenger:1035,has_an_age_of,Unknown
 4144,data:titanic:passenger:1036,is_a,https://en.wikipedia.org/wiki/Woman
-4145,data:titanic:passenger:1036,has_a_name,"George (Omine ""Amenia"" Alexander) Moubarek"
+4145,data:titanic:passenger:1036,has_a_name,"George \(Omine ""Amenia"" Alexander\) Moubarek"
 4146,data:titanic:passenger:1036,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4147,data:titanic:passenger:1036,has_an_age_of,Unknown
 4148,data:titanic:passenger:1037,is_a,https://en.wikipedia.org/wiki/Woman
-4149,data:titanic:passenger:1037,has_a_name,(Mantoura Boulos) Moussa
+4149,data:titanic:passenger:1037,has_a_name,\(Mantoura Boulos\) Moussa
 4150,data:titanic:passenger:1037,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4151,data:titanic:passenger:1037,has_an_age_of,Unknown
 4152,data:titanic:passenger:1038,is_a,https://en.wikipedia.org/wiki/Man
@@ -4192,7 +4192,7 @@
 4190,data:titanic:passenger:1047,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4191,data:titanic:passenger:1047,has_an_age_of,15.0
 4192,data:titanic:passenger:1048,is_a,https://en.wikipedia.org/wiki/Woman
-4193,data:titanic:passenger:1048,has_a_name,"Maria (""Mary"") Nakid"
+4193,data:titanic:passenger:1048,has_a_name,"Maria \(""Mary""\) Nakid"
 4194,data:titanic:passenger:1048,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4195,data:titanic:passenger:1048,has_an_age_of,1.0
 4196,data:titanic:passenger:1049,is_a,https://en.wikipedia.org/wiki/Man
@@ -4200,7 +4200,7 @@
 4198,data:titanic:passenger:1049,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4199,data:titanic:passenger:1049,has_an_age_of,20.0
 4200,data:titanic:passenger:1050,is_a,https://en.wikipedia.org/wiki/Woman
-4201,data:titanic:passenger:1050,has_a_name,"Said (Waika ""Mary"" Mowad) Nakid"
+4201,data:titanic:passenger:1050,has_a_name,"Said \(Waika ""Mary"" Mowad\) Nakid"
 4202,data:titanic:passenger:1050,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4203,data:titanic:passenger:1050,has_an_age_of,19.0
 4204,data:titanic:passenger:1051,is_a,https://en.wikipedia.org/wiki/Man
@@ -4284,7 +4284,7 @@
 4282,data:titanic:passenger:1070,has_a_marital_status,Unknown
 4283,data:titanic:passenger:1070,has_an_age_of,Unknown
 4284,data:titanic:passenger:1071,is_a,https://en.wikipedia.org/wiki/Woman
-4285,data:titanic:passenger:1071,has_a_name,"Thomas (Johanna ""Hannah"" Godfrey) O'Brien"
+4285,data:titanic:passenger:1071,has_a_name,"Thomas \(Johanna ""Hannah"" Godfrey\) O'Brien"
 4286,data:titanic:passenger:1071,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4287,data:titanic:passenger:1071,has_an_age_of,Unknown
 4288,data:titanic:passenger:1072,is_a,https://en.wikipedia.org/wiki/Man
@@ -4400,7 +4400,7 @@
 4398,data:titanic:passenger:1099,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4399,data:titanic:passenger:1099,has_an_age_of,8.0
 4400,data:titanic:passenger:1100,is_a,https://en.wikipedia.org/wiki/Woman
-4401,data:titanic:passenger:1100,has_a_name,Nils (Alma Cornelia Berglund) Palsson
+4401,data:titanic:passenger:1100,has_a_name,Nils \(Alma Cornelia Berglund\) Palsson
 4402,data:titanic:passenger:1100,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4403,data:titanic:passenger:1100,has_an_age_of,29.0
 4404,data:titanic:passenger:1101,is_a,https://en.wikipedia.org/wiki/Man
@@ -4424,7 +4424,7 @@
 4422,data:titanic:passenger:1105,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4423,data:titanic:passenger:1105,has_an_age_of,14.0
 4424,data:titanic:passenger:1106,is_a,https://en.wikipedia.org/wiki/Woman
-4425,data:titanic:passenger:1106,has_a_name,Juha (Maria Emilia Ojala) Panula
+4425,data:titanic:passenger:1106,has_a_name,Juha \(Maria Emilia Ojala\) Panula
 4426,data:titanic:passenger:1106,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4427,data:titanic:passenger:1106,has_an_age_of,41.0
 4428,data:titanic:passenger:1107,is_a,https://en.wikipedia.org/wiki/Man
@@ -4452,7 +4452,7 @@
 4450,data:titanic:passenger:1112,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4451,data:titanic:passenger:1112,has_an_age_of,3.0
 4452,data:titanic:passenger:1113,is_a,https://en.wikipedia.org/wiki/Woman
-4453,data:titanic:passenger:1113,has_a_name,Benjamin (Edith Nile) Peacock
+4453,data:titanic:passenger:1113,has_a_name,Benjamin \(Edith Nile\) Peacock
 4454,data:titanic:passenger:1113,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4455,data:titanic:passenger:1113,has_an_age_of,26.0
 4456,data:titanic:passenger:1114,is_a,https://en.wikipedia.org/wiki/Man
@@ -4492,7 +4492,7 @@
 4490,data:titanic:passenger:1122,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4491,data:titanic:passenger:1122,has_an_age_of,Unknown
 4492,data:titanic:passenger:1123,is_a,https://en.wikipedia.org/wiki/Woman
-4493,data:titanic:passenger:1123,has_a_name,Catherine (Catherine Rizk) Peter
+4493,data:titanic:passenger:1123,has_a_name,Catherine \(Catherine Rizk\) Peter
 4494,data:titanic:passenger:1123,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4495,data:titanic:passenger:1123,has_an_age_of,Unknown
 4496,data:titanic:passenger:1124,is_a,https://en.wikipedia.org/wiki/Woman
@@ -4512,7 +4512,7 @@
 4510,data:titanic:passenger:1127,has_a_marital_status,Unknown
 4511,data:titanic:passenger:1127,has_an_age_of,19.0
 4512,data:titanic:passenger:1128,is_a,https://en.wikipedia.org/wiki/Man
-4513,data:titanic:passenger:1128,has_a_name,"Pastcho (""Pentcho"") Petroff"
+4513,data:titanic:passenger:1128,has_a_name,"Pastcho \(""Pentcho""\) Petroff"
 4514,data:titanic:passenger:1128,has_a_marital_status,Unknown
 4515,data:titanic:passenger:1128,has_an_age_of,Unknown
 4516,data:titanic:passenger:1129,is_a,https://en.wikipedia.org/wiki/Man
@@ -4524,7 +4524,7 @@
 4522,data:titanic:passenger:1130,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4523,data:titanic:passenger:1130,has_an_age_of,18.0
 4524,data:titanic:passenger:1131,is_a,https://en.wikipedia.org/wiki/Man
-4525,data:titanic:passenger:1131,has_a_name,Berk (Berk Trembisky) Pickard
+4525,data:titanic:passenger:1131,has_a_name,Berk \(Berk Trembisky\) Pickard
 4526,data:titanic:passenger:1131,has_a_marital_status,Unknown
 4527,data:titanic:passenger:1131,has_an_age_of,32.0
 4528,data:titanic:passenger:1132,is_a,https://en.wikipedia.org/wiki/Man
@@ -4544,7 +4544,7 @@
 4542,data:titanic:passenger:1135,has_a_marital_status,Unknown
 4543,data:titanic:passenger:1135,has_an_age_of,Unknown
 4544,data:titanic:passenger:1136,is_a,https://en.wikipedia.org/wiki/Woman
-4545,data:titanic:passenger:1136,has_a_name,(Lena Jacobsen Solvang) Rasmussen
+4545,data:titanic:passenger:1136,has_a_name,\(Lena Jacobsen Solvang\) Rasmussen
 4546,data:titanic:passenger:1136,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4547,data:titanic:passenger:1136,has_an_age_of,Unknown
 4548,data:titanic:passenger:1137,is_a,https://en.wikipedia.org/wiki/Man
@@ -4584,7 +4584,7 @@
 4582,data:titanic:passenger:1145,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4583,data:titanic:passenger:1145,has_an_age_of,8.0
 4584,data:titanic:passenger:1146,is_a,https://en.wikipedia.org/wiki/Woman
-4585,data:titanic:passenger:1146,has_a_name,William (Margaret Norton) Rice
+4585,data:titanic:passenger:1146,has_a_name,William \(Margaret Norton\) Rice
 4586,data:titanic:passenger:1146,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4587,data:titanic:passenger:1146,has_an_age_of,39.0
 4588,data:titanic:passenger:1147,is_a,https://en.wikipedia.org/wiki/Woman
@@ -4604,7 +4604,7 @@
 4602,data:titanic:passenger:1150,has_a_marital_status,Unknown
 4603,data:titanic:passenger:1150,has_an_age_of,Unknown
 4604,data:titanic:passenger:1151,is_a,https://en.wikipedia.org/wiki/Woman
-4605,data:titanic:passenger:1151,has_a_name,Samuel (Emma) Risien
+4605,data:titanic:passenger:1151,has_a_name,Samuel \(Emma\) Risien
 4606,data:titanic:passenger:1151,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4607,data:titanic:passenger:1151,has_an_age_of,Unknown
 4608,data:titanic:passenger:1152,is_a,https://en.wikipedia.org/wiki/Man
@@ -4612,7 +4612,7 @@
 4610,data:titanic:passenger:1152,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4611,data:titanic:passenger:1152,has_an_age_of,50.0
 4612,data:titanic:passenger:1153,is_a,https://en.wikipedia.org/wiki/Woman
-4613,data:titanic:passenger:1153,has_a_name,Alexander A (Grace Charity Laury) Robins
+4613,data:titanic:passenger:1153,has_a_name,Alexander A \(Grace Charity Laury\) Robins
 4614,data:titanic:passenger:1153,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4615,data:titanic:passenger:1153,has_an_age_of,47.0
 4616,data:titanic:passenger:1154,is_a,https://en.wikipedia.org/wiki/Man
@@ -4632,7 +4632,7 @@
 4630,data:titanic:passenger:1157,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4631,data:titanic:passenger:1157,has_an_age_of,18.0
 4632,data:titanic:passenger:1158,is_a,https://en.wikipedia.org/wiki/Woman
-4633,data:titanic:passenger:1158,has_a_name,Viktor (Helena Wilhelmina) Rosblom
+4633,data:titanic:passenger:1158,has_a_name,Viktor \(Helena Wilhelmina\) Rosblom
 4634,data:titanic:passenger:1158,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4635,data:titanic:passenger:1158,has_an_age_of,41.0
 4636,data:titanic:passenger:1159,is_a,https://en.wikipedia.org/wiki/Woman
@@ -4720,7 +4720,7 @@
 4718,data:titanic:passenger:1179,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4719,data:titanic:passenger:1179,has_an_age_of,Unknown
 4720,data:titanic:passenger:1180,is_a,https://en.wikipedia.org/wiki/Woman
-4721,data:titanic:passenger:1180,has_a_name,John (Annie Bullen) Sage
+4721,data:titanic:passenger:1180,has_a_name,John \(Annie Bullen\) Sage
 4722,data:titanic:passenger:1180,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4723,data:titanic:passenger:1180,has_an_age_of,Unknown
 4724,data:titanic:passenger:1181,is_a,https://en.wikipedia.org/wiki/Man
@@ -4752,7 +4752,7 @@
 4750,data:titanic:passenger:1187,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4751,data:titanic:passenger:1187,has_an_age_of,1.0
 4752,data:titanic:passenger:1188,is_a,https://en.wikipedia.org/wiki/Woman
-4753,data:titanic:passenger:1188,has_a_name,Hjalmar (Agnes Charlotta Bengtsson) Sandstrom
+4753,data:titanic:passenger:1188,has_a_name,Hjalmar \(Agnes Charlotta Bengtsson\) Sandstrom
 4754,data:titanic:passenger:1188,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4755,data:titanic:passenger:1188,has_an_age_of,24.0
 4756,data:titanic:passenger:1189,is_a,https://en.wikipedia.org/wiki/Woman
@@ -4844,7 +4844,7 @@
 4842,data:titanic:passenger:1210,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4843,data:titanic:passenger:1210,has_an_age_of,40.0
 4844,data:titanic:passenger:1211,is_a,https://en.wikipedia.org/wiki/Woman
-4845,data:titanic:passenger:1211,has_a_name,William (Anna Bernhardina Karlsson) Skoog
+4845,data:titanic:passenger:1211,has_a_name,William \(Anna Bernhardina Karlsson\) Skoog
 4846,data:titanic:passenger:1211,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4847,data:titanic:passenger:1211,has_an_age_of,45.0
 4848,data:titanic:passenger:1212,is_a,https://en.wikipedia.org/wiki/Man
@@ -4924,7 +4924,7 @@
 4922,data:titanic:passenger:1230,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 4923,data:titanic:passenger:1230,has_an_age_of,2.0
 4924,data:titanic:passenger:1231,is_a,https://en.wikipedia.org/wiki/Woman
-4925,data:titanic:passenger:1231,has_a_name,Wilhelm (Elna Matilda Persson) Strom
+4925,data:titanic:passenger:1231,has_a_name,Wilhelm \(Elna Matilda Persson\) Strom
 4926,data:titanic:passenger:1231,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4927,data:titanic:passenger:1231,has_an_age_of,29.0
 4928,data:titanic:passenger:1232,is_a,https://en.wikipedia.org/wiki/Man
@@ -4976,7 +4976,7 @@
 4974,data:titanic:passenger:1243,has_a_marital_status,Unknown
 4975,data:titanic:passenger:1243,has_an_age_of,Unknown
 4976,data:titanic:passenger:1244,is_a,https://en.wikipedia.org/wiki/Woman
-4977,data:titanic:passenger:1244,has_a_name,"Alexander (Thamine ""Thelma"") Thomas"
+4977,data:titanic:passenger:1244,has_a_name,"Alexander \(Thamine ""Thelma""\) Thomas"
 4978,data:titanic:passenger:1244,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4979,data:titanic:passenger:1244,has_an_age_of,16.0
 4980,data:titanic:passenger:1245,is_a,https://en.wikipedia.org/wiki/Man
@@ -4988,7 +4988,7 @@
 4986,data:titanic:passenger:1246,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4987,data:titanic:passenger:1246,has_an_age_of,Unknown
 4988,data:titanic:passenger:1247,is_a,https://en.wikipedia.org/wiki/Woman
-4989,data:titanic:passenger:1247,has_a_name,Percival (Florence Kate White) Thorneycroft
+4989,data:titanic:passenger:1247,has_a_name,Percival \(Florence Kate White\) Thorneycroft
 4990,data:titanic:passenger:1247,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 4991,data:titanic:passenger:1247,has_an_age_of,Unknown
 4992,data:titanic:passenger:1248,is_a,https://en.wikipedia.org/wiki/Man
@@ -5032,7 +5032,7 @@
 5030,data:titanic:passenger:1257,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 5031,data:titanic:passenger:1257,has_an_age_of,9.0
 5032,data:titanic:passenger:1258,is_a,https://en.wikipedia.org/wiki/Woman
-5033,data:titanic:passenger:1258,has_a_name,Darwis (Hanne Youssef Razi) Touma
+5033,data:titanic:passenger:1258,has_a_name,Darwis \(Hanne Youssef Razi\) Touma
 5034,data:titanic:passenger:1258,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5035,data:titanic:passenger:1258,has_an_age_of,29.0
 5036,data:titanic:passenger:1259,is_a,https://en.wikipedia.org/wiki/Man
@@ -5044,7 +5044,7 @@
 5042,data:titanic:passenger:1260,has_a_marital_status,https://en.wikipedia.org/wiki/Single_person
 5043,data:titanic:passenger:1260,has_an_age_of,18.0
 5044,data:titanic:passenger:1261,is_a,https://en.wikipedia.org/wiki/Woman
-5045,data:titanic:passenger:1261,has_a_name,(Hedwig) Turkula
+5045,data:titanic:passenger:1261,has_a_name,\(Hedwig\) Turkula
 5046,data:titanic:passenger:1261,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5047,data:titanic:passenger:1261,has_an_age_of,63.0
 5048,data:titanic:passenger:1262,is_a,https://en.wikipedia.org/wiki/Man
@@ -5068,7 +5068,7 @@
 5066,data:titanic:passenger:1266,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5067,data:titanic:passenger:1266,has_an_age_of,36.0
 5068,data:titanic:passenger:1267,is_a,https://en.wikipedia.org/wiki/Woman
-5069,data:titanic:passenger:1267,has_a_name,Jean Baptiste (Rosalie Paula Govaert) Van Impe
+5069,data:titanic:passenger:1267,has_a_name,Jean Baptiste \(Rosalie Paula Govaert\) Van Impe
 5070,data:titanic:passenger:1267,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5071,data:titanic:passenger:1267,has_an_age_of,30.0
 5072,data:titanic:passenger:1268,is_a,https://en.wikipedia.org/wiki/Man
@@ -5104,7 +5104,7 @@
 5102,data:titanic:passenger:1275,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5103,data:titanic:passenger:1275,has_an_age_of,16.0
 5104,data:titanic:passenger:1276,is_a,https://en.wikipedia.org/wiki/Woman
-5105,data:titanic:passenger:1276,has_a_name,Julius (Emelia Maria Vandemoortele) Vander Planke
+5105,data:titanic:passenger:1276,has_a_name,Julius \(Emelia Maria Vandemoortele\) Vander Planke
 5106,data:titanic:passenger:1276,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5107,data:titanic:passenger:1276,has_an_age_of,31.0
 5108,data:titanic:passenger:1277,is_a,https://en.wikipedia.org/wiki/Man
@@ -5144,7 +5144,7 @@
 5142,data:titanic:passenger:1285,has_a_marital_status,Unknown
 5143,data:titanic:passenger:1285,has_an_age_of,32.5
 5144,data:titanic:passenger:1286,is_a,https://en.wikipedia.org/wiki/Woman
-5145,data:titanic:passenger:1286,has_a_name,George Joseph (Shawneene Abi-Saab) Whabee
+5145,data:titanic:passenger:1286,has_a_name,George Joseph \(Shawneene Abi-Saab\) Whabee
 5146,data:titanic:passenger:1286,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5147,data:titanic:passenger:1286,has_an_age_of,38.0
 5148,data:titanic:passenger:1287,is_a,https://en.wikipedia.org/wiki/Man
@@ -5160,11 +5160,11 @@
 5158,data:titanic:passenger:1289,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5159,data:titanic:passenger:1289,has_an_age_of,21.0
 5160,data:titanic:passenger:1290,is_a,https://en.wikipedia.org/wiki/Woman
-5161,data:titanic:passenger:1290,has_a_name,James (Ellen Needs) Wilkes
+5161,data:titanic:passenger:1290,has_a_name,James \(Ellen Needs\) Wilkes
 5162,data:titanic:passenger:1290,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5163,data:titanic:passenger:1290,has_an_age_of,47.0
 5164,data:titanic:passenger:1291,is_a,https://en.wikipedia.org/wiki/Man
-5165,data:titanic:passenger:1291,has_a_name,"Aaron (""Abi Weller"") Willer"
+5165,data:titanic:passenger:1291,has_a_name,"Aaron \(""Abi Weller""\) Willer"
 5166,data:titanic:passenger:1291,has_a_marital_status,Unknown
 5167,data:titanic:passenger:1291,has_an_age_of,Unknown
 5168,data:titanic:passenger:1292,is_a,https://en.wikipedia.org/wiki/Man
@@ -5200,7 +5200,7 @@
 5198,data:titanic:passenger:1299,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5199,data:titanic:passenger:1299,has_an_age_of,27.0
 5200,data:titanic:passenger:1300,is_a,https://en.wikipedia.org/wiki/Woman
-5201,data:titanic:passenger:1300,has_a_name,Antoni (Selini Alexander) Yasbeck
+5201,data:titanic:passenger:1300,has_a_name,Antoni \(Selini Alexander\) Yasbeck
 5202,data:titanic:passenger:1300,has_a_marital_status,https://en.wikipedia.org/wiki/Marriage
 5203,data:titanic:passenger:1300,has_an_age_of,15.0
 5204,data:titanic:passenger:1301,is_a,https://en.wikipedia.org/wiki/Man

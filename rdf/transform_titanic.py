@@ -1,4 +1,4 @@
-import pandas
+
 import pandas as pd
 
 from owlready2 import *
@@ -119,6 +119,34 @@ class Passenger_RDF:
                                  "predicate": self._HAS_AN_AGE_OF,
                                  "object": "Unknown"},
                                 index=[0])
+
+
+
+def get_spouse( aName : str, aGender : str) -> list:
+    spouse_name = None
+    spouse_surname = None
+    if aGender.__contains__("female"):
+        if aName.__contains__("Mrs."):
+            names = aName.split(", ")
+            spouse_surname = names[0]
+            names = names[1].split(" ")
+            # Extract name of the husband
+            if len(names) > 2:
+                spouse_name = names[1]
+    return [spouse_name, spouse_surname]
+
+
+def find_spouse_uri(someData: pd.DataFrame, aName : str, aGender : str):
+    index = -1;
+    spouse = get_spouse(aName, aGender)
+    if len(spouse) == 2 and spouse[0] is not None and spouse[1] is not None:
+        filter_rows = (someData['name'].str.contains(spouse[0])) & (someData["name"].str.contains(spouse[1])) & (someData["sex"] == "male")
+        rows = someData.loc[filter_rows, :]
+        print(rows.index)
+
+
+
+
 for row in data.itertuples():
     rdf = Passenger_RDF(row.Index, row.name, row.sex, row.age, row.sibsp, row.parch)
     is_a = rdf.is_a()
@@ -129,5 +157,6 @@ for row in data.itertuples():
     rdfs = pd.concat([rdfs.loc[:], has_a_marital_status]).reset_index(drop=True)
     has_an_age_of = rdf.has_an_age_of()
     rdfs = pd.concat([rdfs.loc[:], has_an_age_of]).reset_index(drop=True)
+    find_spouse_uri(data, row.name, row.sex)
 
 rdfs.to_csv("titanic/rdf_titanic.csv")
